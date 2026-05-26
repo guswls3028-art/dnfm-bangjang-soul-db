@@ -1,0 +1,13 @@
+{
+  "name": "dnfm-bangjang-soul-db",
+  "version": "0.1.0",
+  "private": true,
+  "description": "방장의 영혼 카카오봇 지식 DB 분리 저장소",
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/smoke.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
