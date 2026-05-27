@@ -1,36 +1,40 @@
 {
-  "generatedAt": "2026-05-22T04:13:34.474Z",
-  "source": "KakaoTalk_20260522_1311_01_282_group.txt",
+  "generatedAt": "2026-05-27T04:22:37.015Z",
+  "source": "KakaoTalk_20260527_1308_58_267_group.txt",
   "first": "2025. 12. 19. 09:00",
-  "last": "2026. 05. 22. 13:10",
-  "totalMessages": 150072,
-  "participants": 316,
-  "mediaMessages": 9669,
-  "slashMessages": 1488,
-  "multilineMessages": 3649,
+  "last": "2026. 05. 27. 13:07",
+  "totalMessages": 159322,
+  "participants": 324,
+  "mediaMessages": 10172,
+  "slashMessages": 2190,
+  "multilineMessages": 4089,
   "topHours": [
     {
+      "name": "19시",
+      "count": 11468
+    },
+    {
       "name": "17시",
-      "count": 10722
+      "count": 11399
     },
     {
       "name": "16시",
-      "count": 10698
-    },
-    {
-      "name": "19시",
-      "count": 10345
+      "count": 11356
     },
     {
       "name": "20시",
-      "count": 10135
+      "count": 10966
     },
     {
       "name": "18시",
-      "count": 10116
+      "count": 10660
     }
   ],
   "topDays": [
+    {
+      "name": "2026.05.23",
+      "count": 4094
+    },
     {
       "name": "2026.03.30",
       "count": 3845
@@ -52,6 +56,10 @@
       "count": 2759
     },
     {
+      "name": "2026.05.26",
+      "count": 2758
+    },
+    {
       "name": "2026.04.08",
       "count": 2570
     },
@@ -62,14 +70,6 @@
     {
       "name": "2026.04.01",
       "count": 2486
-    },
-    {
-      "name": "2026.03.25",
-      "count": 2429
-    },
-    {
-      "name": "2026.02.23",
-      "count": 2359
     }
   ],
   "topSlashCommands": [
@@ -83,7 +83,7 @@
     },
     {
       "name": "/강화",
-      "count": 47
+      "count": 48
     },
     {
       "name": "/가이드ㅡ하이웨이ㅡ시즌공략2",
@@ -95,15 +95,23 @@
     },
     {
       "name": "/질문",
-      "count": 24
+      "count": 26
+    },
+    {
+      "name": "/발화량",
+      "count": 25
     },
     {
       "name": "/가이드",
       "count": 22
     },
     {
-      "name": "/발화량",
+      "name": "/남스핏",
       "count": 21
+    },
+    {
+      "name": "/너",
+      "count": 20
     },
     {
       "name": "/가이드ㅡ장비세트옵션ㅡ총정리",
@@ -114,8 +122,16 @@
       "count": 19
     },
     {
-      "name": "/너",
-      "count": 17
+      "name": "/버서커",
+      "count": 19
+    },
+    {
+      "name": "/블레이드",
+      "count": 16
+    },
+    {
+      "name": "/장비",
+      "count": 16
     },
     {
       "name": "/가이드ㅡ테라버는법",
@@ -126,11 +142,15 @@
       "count": 14
     },
     {
+      "name": "/",
+      "count": 12
+    },
+    {
       "name": "/방장",
       "count": 12
     },
     {
-      "name": "/버서커",
+      "name": "/여메카",
       "count": 12
     },
     {
@@ -138,7 +158,15 @@
       "count": 12
     },
     {
-      "name": "/남스핏",
+      "name": "/넨마",
+      "count": 11
+    },
+    {
+      "name": "/모후모후~",
+      "count": 11
+    },
+    {
+      "name": "/솔도로스",
       "count": 11
     },
     {
@@ -150,7 +178,23 @@
       "count": 10
     },
     {
-      "name": "/",
+      "name": "/런처",
+      "count": 10
+    },
+    {
+      "name": "/오답",
+      "count": 10
+    },
+    {
+      "name": "/너의",
+      "count": 9
+    },
+    {
+      "name": "/스핏",
+      "count": 9
+    },
+    {
+      "name": "/야",
       "count": 9
     },
     {
@@ -158,11 +202,19 @@
       "count": 8
     },
     {
-      "name": "/넨마",
+      "name": "/뉴비",
       "count": 8
     },
     {
-      "name": "/야",
+      "name": "/던파",
+      "count": 8
+    },
+    {
+      "name": "/스킬룬",
+      "count": 8
+    },
+    {
+      "name": "/오늘의",
       "count": 8
     },
     {
@@ -170,19 +222,27 @@
       "count": 8
     },
     {
-      "name": "/런처",
+      "name": "/남런처",
       "count": 7
     },
     {
-      "name": "/스킬룬",
+      "name": "/남스파",
       "count": 7
     },
     {
-      "name": "/오답",
+      "name": "/넌",
       "count": 7
     },
     {
-      "name": "/장비",
+      "name": "/던파모바일",
+      "count": 7
+    },
+    {
+      "name": "/시너지",
+      "count": 7
+    },
+    {
+      "name": "/오늘",
       "count": 7
     },
     {
@@ -190,145 +250,73 @@
       "count": 6
     },
     {
-      "name": "/남스커",
-      "count": 6
-    },
-    {
-      "name": "/던파모바일",
-      "count": 6
-    },
-    {
-      "name": "/솔도로스",
-      "count": 6
-    },
-    {
-      "name": "/스킬룬획득경로",
-      "count": 6
-    },
-    {
-      "name": "/암제",
+      "name": "/경미참",
       "count": 6
     },
     {
       "name": "/길드",
-      "count": 5
+      "count": 6
     },
     {
-      "name": "/니얼굴",
-      "count": 5
+      "name": "/남메카",
+      "count": 6
     },
     {
-      "name": "/던파",
-      "count": 5
-    },
-    {
-      "name": "/봇",
-      "count": 5
-    },
-    {
-      "name": "/스핏",
-      "count": 5
-    },
-    {
-      "name": "/시너지",
-      "count": 5
-    },
-    {
-      "name": "/여메카",
-      "count": 5
-    },
-    {
-      "name": "/재해",
-      "count": 5
-    },
-    {
-      "name": "/가이드링크모음",
-      "count": 4
-    },
-    {
-      "name": "/가이드ㅡ초대장어디서얻나요",
-      "count": 4
-    },
-    {
-      "name": "/남런처",
-      "count": 4
-    },
-    {
-      "name": "/내",
-      "count": 4
-    },
-    {
-      "name": "/너의",
-      "count": 4
-    },
-    {
-      "name": "/놀아줘",
-      "count": 4
+      "name": "/남스커",
+      "count": 6
     },
     {
       "name": "/누골",
-      "count": 4
+      "count": 6
     },
     {
-      "name": "/뉴비",
-      "count": 4
+      "name": "/봇",
+      "count": 6
     }
   ],
   "recent": {
-    "since": "2026. 05. 21. 13:21",
-    "until": "2026. 05. 22. 13:10",
-    "totalMessages": 1949,
+    "since": "2026. 05. 26. 13:07",
+    "until": "2026. 05. 27. 13:07",
+    "totalMessages": 2467,
     "topSlashCommands": [
       {
-        "name": "/레이드",
-        "count": 6
+        "name": "/남스핏",
+        "count": 4
       },
       {
         "name": "/스핏",
         "count": 3
       },
       {
-        "name": "/질문",
-        "count": 3
-      },
-      {
-        "name": "/가이드",
+        "name": "/555",
         "count": 2
       },
       {
-        "name": "/길드",
+        "name": "/검제",
         "count": 2
       },
       {
-        "name": "/남런처",
+        "name": "/룬",
         "count": 2
       },
       {
-        "name": "/레인저",
+        "name": "/상태이상룬",
         "count": 2
       },
       {
-        "name": "/무기고",
+        "name": "/술먹은펭귄",
         "count": 2
       },
       {
-        "name": "/미스트리스",
+        "name": "/오늘의",
         "count": 2
       },
       {
-        "name": "/아수라",
+        "name": "/최근",
         "count": 2
       },
       {
-        "name": "/엘팅",
-        "count": 2
-      },
-      {
-        "name": "/여스핏",
-        "count": 2
-      },
-      {
-        "name": "/장비",
+        "name": "/타우",
         "count": 2
       },
       {
@@ -336,59 +324,83 @@
         "count": 1
       },
       {
-        "name": "/1부터",
+        "name": "//경미참",
         "count": 1
       },
       {
-        "name": "/1에서45",
+        "name": "/4번은",
         "count": 1
       },
       {
-        "name": "/70레벨에서",
+        "name": "/강화",
         "count": 1
       },
       {
-        "name": "/강원랜드에",
+        "name": "/게이꺼진것같습니다",
         "count": 1
       },
       {
-        "name": "/거인의",
+        "name": "/게이볼그",
         "count": 1
       },
       {
-        "name": "/검제",
+        "name": "/게이트웨이",
         "count": 1
       },
       {
-        "name": "/경미참",
+        "name": "/게이트웨이바빌론",
         "count": 1
       },
       {
-        "name": "/공짜크리쳐",
+        "name": "/경화수월",
         "count": 1
       },
       {
-        "name": "/남거너고수",
+        "name": "/곤약젤리",
         "count": 1
       },
       {
-        "name": "/남런쳐",
+        "name": "/골드",
         "count": 1
       },
       {
-        "name": "/남메카",
+        "name": "/공략",
         "count": 1
       },
       {
-        "name": "/남스핏",
+        "name": "/공지사항",
         "count": 1
       },
       {
-        "name": "/남크루",
+        "name": "/귀검사",
         "count": 1
       },
       {
-        "name": "/낭인세트에",
+        "name": "/그래플러",
+        "count": 1
+      },
+      {
+        "name": "/그랜드체이스",
+        "count": 1
+      },
+      {
+        "name": "/기황신",
+        "count": 1
+      },
+      {
+        "name": "/깔개",
+        "count": 1
+      },
+      {
+        "name": "/나루호도",
+        "count": 1
+      },
+      {
+        "name": "/남스파",
+        "count": 1
+      },
+      {
+        "name": "/내",
         "count": 1
       },
       {
@@ -396,87 +408,75 @@
         "count": 1
       },
       {
-        "name": "/너는",
+        "name": "/냉모밀",
         "count": 1
       },
       {
-        "name": "/넨마",
+        "name": "/너",
         "count": 1
       },
       {
-        "name": "/노바소서",
+        "name": "/넨마스터",
         "count": 1
       },
       {
-        "name": "/뉴비야캐요",
+        "name": "/노오오오오력",
         "count": 1
       },
       {
-        "name": "/던모",
+        "name": "/뉴비",
         "count": 1
       },
       {
-        "name": "/던파모바일",
+        "name": "/뉴비가이드",
         "count": 1
       },
       {
-        "name": "/라이너스에",
+        "name": "/다차큐",
         "count": 1
       },
       {
-        "name": "/런처",
+        "name": "/다크소울",
         "count": 1
       },
       {
-        "name": "/로그",
+        "name": "/대답",
         "count": 1
       },
       {
-        "name": "/로또번호",
+        "name": "/더블넥서스",
         "count": 1
       },
       {
-        "name": "/리디머",
+        "name": "/던모는",
         "count": 1
       },
       {
-        "name": "/마법봉인",
+        "name": "/던파",
         "count": 1
       },
       {
-        "name": "/마부",
+        "name": "/도움",
         "count": 1
       },
       {
-        "name": "/말괄량이",
+        "name": "/돌비의",
         "count": 1
       },
       {
-        "name": "/머법봉인",
+        "name": "/동네꼬마",
         "count": 1
       },
       {
-        "name": "/머크우드에",
+        "name": "/득근경",
         "count": 1
       },
       {
-        "name": "/모험도감",
+        "name": "/득근기도문",
         "count": 1
       },
       {
-        "name": "/모후모후",
-        "count": 1
-      },
-      {
-        "name": "/모후모후~",
-        "count": 1
-      },
-      {
-        "name": "/무기",
-        "count": 1
-      },
-      {
-        "name": "/무녀",
+        "name": "/따앗!쥐~",
         "count": 1
       }
     ]
@@ -485,268 +485,268 @@
     {
       "rank": 1,
       "name": "오필리아 / 잭터",
-      "count": 19026,
-      "percent": 12.7,
-      "avgChars": 11.5
+      "count": 19959,
+      "percent": 12.5,
+      "avgChars": 11.6
     },
     {
       "rank": 2,
       "name": "방장",
-      "count": 17323,
-      "percent": 11.5,
+      "count": 18629,
+      "percent": 11.7,
       "avgChars": 12.2
     },
     {
       "rank": 3,
       "name": "백제시대/ 슈시아",
-      "count": 8831,
-      "percent": 5.9,
-      "avgChars": 11
+      "count": 9191,
+      "percent": 5.8,
+      "avgChars": 11.1
     },
     {
       "rank": 4,
       "name": "기가악",
-      "count": 6851,
-      "percent": 4.6,
-      "avgChars": 8.5
+      "count": 7056,
+      "percent": 4.4,
+      "avgChars": 8.4
     },
     {
       "rank": 5,
-      "name": "맑남",
-      "count": 5136,
-      "percent": 3.4,
-      "avgChars": 16.8
+      "name": "엥빈 / 뉴비",
+      "count": 5526,
+      "percent": 3.5,
+      "avgChars": 10.9
     },
     {
       "rank": 6,
-      "name": "엥빈 / 뉴비",
-      "count": 4795,
-      "percent": 3.2,
-      "avgChars": 11.1
+      "name": "맑남",
+      "count": 5336,
+      "percent": 3.3,
+      "avgChars": 16.8
     },
     {
       "rank": 7,
-      "name": "복귀유저",
-      "count": 4263,
-      "percent": 2.8,
-      "avgChars": 12.8
+      "name": "적풍신",
+      "count": 4594,
+      "percent": 2.9,
+      "avgChars": 12.1
     },
     {
       "rank": 8,
-      "name": "펭귄/레이븐",
-      "count": 4152,
+      "name": "복귀유저",
+      "count": 4421,
       "percent": 2.8,
-      "avgChars": 5.8
+      "avgChars": 12.9
     },
     {
       "rank": 9,
-      "name": "적풍신",
-      "count": 3986,
+      "name": "펭귄/레이븐",
+      "count": 4244,
       "percent": 2.7,
-      "avgChars": 12.3
+      "avgChars": 5.8
     },
     {
       "rank": 10,
       "name": "뉴비/닥초님",
-      "count": 3947,
-      "percent": 2.6,
+      "count": 3951,
+      "percent": 2.5,
       "avgChars": 8.3
     },
     {
       "rank": 11,
       "name": "슈시아/물범(본주)",
-      "count": 3817,
+      "count": 3913,
       "percent": 2.5,
-      "avgChars": 14.7
+      "avgChars": 14.9
     },
     {
       "rank": 12,
-      "name": "레지밀러/그플",
-      "count": 3277,
+      "name": "(던붕이)고르고13/레인저/모바일유저",
+      "count": 3475,
       "percent": 2.2,
-      "avgChars": 16.5
+      "avgChars": 11.3
     },
     {
       "rank": 13,
-      "name": "(던붕이)고르고13/레인저/모바일유저",
-      "count": 3240,
+      "name": "레지밀러/그플",
+      "count": 3455,
       "percent": 2.2,
-      "avgChars": 11.2
+      "avgChars": 16.7
     },
     {
       "rank": 14,
+      "name": "불량한런처 / 런처",
+      "count": 3431,
+      "percent": 2.2,
+      "avgChars": 10.3
+    },
+    {
+      "rank": 15,
+      "name": "레인져/라떼주세용/스핏/버거주세용",
+      "count": 3355,
+      "percent": 2.1,
+      "avgChars": 10.1
+    },
+    {
+      "rank": 16,
       "name": "남거너고수",
-      "count": 3195,
+      "count": 3280,
       "percent": 2.1,
       "avgChars": 20
     },
     {
-      "rank": 15,
-      "name": "불량한런처 / 런처",
-      "count": 3188,
-      "percent": 2.1,
-      "avgChars": 10.3
-    },
-    {
-      "rank": 16,
-      "name": "레인져/라떼주세용/스핏/버거주세용",
-      "count": 3043,
-      "percent": 2,
-      "avgChars": 10.2
-    },
-    {
       "rank": 17,
       "name": "덴들리온/검마",
-      "count": 2826,
-      "percent": 1.9,
+      "count": 2901,
+      "percent": 1.8,
       "avgChars": 16.8
     },
     {
       "rank": 18,
       "name": "귀염둥이븝미",
-      "count": 2486,
-      "percent": 1.7,
+      "count": 2542,
+      "percent": 1.6,
       "avgChars": 14.2
     },
     {
       "rank": 19,
       "name": "서리월영/암제",
-      "count": 2461,
+      "count": 2497,
       "percent": 1.6,
       "avgChars": 8.9
     },
     {
       "rank": 20,
       "name": "무직/버서커",
-      "count": 2151,
-      "percent": 1.4,
+      "count": 2418,
+      "percent": 1.5,
       "avgChars": 11.7
     },
     {
       "rank": 21,
-      "name": "치킨",
-      "count": 1942,
-      "percent": 1.3,
-      "avgChars": 7.6
+      "name": "런처센세",
+      "count": 2203,
+      "percent": 1.4,
+      "avgChars": 10.9
     },
     {
       "rank": 22,
-      "name": "포즌/스파",
-      "count": 1924,
-      "percent": 1.3,
-      "avgChars": 14.6
+      "name": "치킨",
+      "count": 1942,
+      "percent": 1.2,
+      "avgChars": 7.6
     },
     {
       "rank": 23,
-      "name": "런처센세",
-      "count": 1884,
-      "percent": 1.3,
-      "avgChars": 11
+      "name": "포즌/스파",
+      "count": 1924,
+      "percent": 1.2,
+      "avgChars": 14.6
     },
     {
       "rank": 24,
+      "name": "방장의 영혼",
+      "count": 1873,
+      "percent": 1.2,
+      "avgChars": 116.4
+    },
+    {
+      "rank": 25,
       "name": "초월한눈동자",
-      "count": 1764,
+      "count": 1856,
       "percent": 1.2,
       "avgChars": 4.9
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "지서이의ㅇㅇ",
       "count": 1666,
-      "percent": 1.1,
+      "percent": 1,
       "avgChars": 19.9
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "뽀왑",
-      "count": 1544,
+      "count": 1605,
       "percent": 1,
       "avgChars": 13.8
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "뀨능이/슈시아/이단",
       "count": 1534,
       "percent": 1,
       "avgChars": 13.2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "복날개패듯/버서커",
       "count": 1418,
       "percent": 0.9,
       "avgChars": 9.4
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "니케 정보",
       "count": 1390,
       "percent": 0.9,
       "avgChars": 8.7
     },
     {
-      "rank": 30,
-      "name": "방장의 영혼",
-      "count": 1190,
-      "percent": 0.8,
-      "avgChars": 111.5
-    },
-    {
       "rank": 31,
       "name": "특홍어 / 버서커",
-      "count": 1073,
+      "count": 1104,
       "percent": 0.7,
-      "avgChars": 14
+      "avgChars": 13.9
     },
     {
       "rank": 32,
       "name": "은비레이드/블레이드",
-      "count": 1068,
+      "count": 1071,
       "percent": 0.7,
       "avgChars": 12.2
     },
     {
       "rank": 33,
       "name": "버프열쇠",
-      "count": 1027,
+      "count": 1060,
       "percent": 0.7,
       "avgChars": 10.2
     },
     {
       "rank": 34,
+      "name": "맥심빛베리",
+      "count": 966,
+      "percent": 0.6,
+      "avgChars": 8.3
+    },
+    {
+      "rank": 35,
+      "name": "오픈채팅봇",
+      "count": 953,
+      "percent": 0.6,
+      "avgChars": 90.3
+    },
+    {
+      "rank": 36,
       "name": "총알돌이/남렌/슈시아",
       "count": 949,
       "percent": 0.6,
       "avgChars": 12.2
     },
     {
-      "rank": 35,
+      "rank": 37,
       "name": "키위새",
       "count": 936,
       "percent": 0.6,
       "avgChars": 7.4
     },
     {
-      "rank": 36,
-      "name": "오픈채팅봇",
-      "count": 924,
-      "percent": 0.6,
-      "avgChars": 90.1
-    },
-    {
-      "rank": 37,
-      "name": "똥녀/스파",
-      "count": 797,
-      "percent": 0.5,
-      "avgChars": 12.6
-    },
-    {
       "rank": 38,
-      "name": "맥심빛베리",
-      "count": 745,
+      "name": "똥녀/슈시아",
+      "count": 864,
       "percent": 0.5,
-      "avgChars": 8.6
+      "avgChars": 12.5
     },
     {
       "rank": 39,
@@ -757,1938 +757,1994 @@
     },
     {
       "rank": 40,
+      "name": "마고놀자/미스",
+      "count": 586,
+      "percent": 0.4,
+      "avgChars": 8.5
+    },
+    {
+      "rank": 41,
       "name": "늅메인/암제,인챈,여메카",
       "count": 566,
       "percent": 0.4,
       "avgChars": 8.1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "뉴비 시너돔황챠",
       "count": 535,
-      "percent": 0.4,
-      "avgChars": 10.1
-    },
-    {
-      "rank": 42,
-      "name": "마고놀자/미스",
-      "count": 525,
       "percent": 0.3,
-      "avgChars": 8.6
+      "avgChars": 10.1
     },
     {
       "rank": 43,
       "name": "뉴비/LuPae사랑해/로그",
-      "count": 511,
+      "count": 522,
       "percent": 0.3,
       "avgChars": 6.8
     },
     {
       "rank": 44,
       "name": "슈시아/안젤루스",
-      "count": 505,
+      "count": 520,
       "percent": 0.3,
-      "avgChars": 14.8
+      "avgChars": 14.6
     },
     {
       "rank": 45,
-      "name": "절신",
-      "count": 458,
-      "percent": 0.3,
-      "avgChars": 10.2
-    },
-    {
-      "rank": 46,
       "name": "연체르/배메",
-      "count": 406,
+      "count": 477,
       "percent": 0.3,
       "avgChars": 10.1
     },
     {
+      "rank": 46,
+      "name": "절신",
+      "count": 459,
+      "percent": 0.3,
+      "avgChars": 10.3
+    },
+    {
       "rank": 47,
       "name": "허락공대/왕국",
-      "count": 377,
+      "count": 450,
       "percent": 0.3,
-      "avgChars": 8.6
+      "avgChars": 8.4
     },
     {
       "rank": 48,
-      "name": "복귀/남런처/ 따라리론",
-      "count": 372,
-      "percent": 0.2,
-      "avgChars": 17.7
+      "name": "프다 / 아픈녀석들",
+      "count": 428,
+      "percent": 0.3,
+      "avgChars": 11.8
     },
     {
       "rank": 49,
-      "name": "전황/아수라",
-      "count": 358,
+      "name": "복귀/남런처/ 따라리론",
+      "count": 390,
       "percent": 0.2,
-      "avgChars": 10.5
+      "avgChars": 17.5
     },
     {
       "rank": 50,
+      "name": "전황/아수라",
+      "count": 377,
+      "percent": 0.2,
+      "avgChars": 10.6
+    },
+    {
+      "rank": 51,
+      "name": "헤드샷",
+      "count": 352,
+      "percent": 0.2,
+      "avgChars": 18.5
+    },
+    {
+      "rank": 52,
       "name": "칸나 복귀유저",
       "count": 350,
       "percent": 0.2,
       "avgChars": 14.5
     },
     {
-      "rank": 51,
+      "rank": 53,
+      "name": "피믹 / 버서커",
+      "count": 337,
+      "percent": 0.2,
+      "avgChars": 10.1
+    },
+    {
+      "rank": 54,
       "name": "마음/아수라",
       "count": 327,
       "percent": 0.2,
       "avgChars": 11.7
     },
     {
-      "rank": 52,
+      "rank": 55,
       "name": "웨펀/I코쿠시보I",
       "count": 309,
       "percent": 0.2,
       "avgChars": 17.3
     },
     {
-      "rank": 53,
-      "name": "피믹 / 버서커",
-      "count": 299,
+      "rank": 56,
+      "name": "살캥 / 블레이드(초보)",
+      "count": 298,
       "percent": 0.2,
-      "avgChars": 10.3
+      "avgChars": 18.7
     },
     {
-      "rank": 54,
+      "rank": 57,
       "name": "머멧/암제",
       "count": 282,
       "percent": 0.2,
       "avgChars": 8.4
     },
     {
-      "rank": 55,
+      "rank": 58,
       "name": "Ytnah/블래이드",
       "count": 282,
       "percent": 0.2,
       "avgChars": 9
     },
     {
-      "rank": 56,
+      "rank": 59,
       "name": "이구역여스핏/뉴비",
-      "count": 276,
+      "count": 278,
       "percent": 0.2,
-      "avgChars": 16.9
+      "avgChars": 17.2
     },
     {
-      "rank": 57,
+      "rank": 60,
       "name": "상도법사 남법사",
       "count": 245,
       "percent": 0.2,
       "avgChars": 22.4
     },
     {
-      "rank": 58,
+      "rank": 61,
+      "name": "FX헬벤",
+      "count": 244,
+      "percent": 0.2,
+      "avgChars": 23
+    },
+    {
+      "rank": 62,
       "name": "바이브",
       "count": 238,
-      "percent": 0.2,
+      "percent": 0.1,
       "avgChars": 15.8
     },
     {
-      "rank": 59,
+      "rank": 63,
       "name": "(뉴비)복귀 / 남메카",
       "count": 233,
-      "percent": 0.2,
+      "percent": 0.1,
       "avgChars": 17.6
     },
     {
-      "rank": 60,
-      "name": "FX헬벤",
-      "count": 224,
-      "percent": 0.1,
-      "avgChars": 19.2
-    },
-    {
-      "rank": 61,
+      "rank": 64,
       "name": "치즈정복 96",
       "count": 223,
       "percent": 0.1,
       "avgChars": 9
     },
     {
-      "rank": 62,
-      "name": "헤드샷",
-      "count": 221,
-      "percent": 0.1,
-      "avgChars": 18.9
-    },
-    {
-      "rank": 63,
+      "rank": 65,
       "name": "복귀/참치",
       "count": 215,
       "percent": 0.1,
       "avgChars": 5.3
     },
     {
-      "rank": 64,
+      "rank": 66,
       "name": "카리티/아수라",
       "count": 214,
       "percent": 0.1,
       "avgChars": 14.8
     },
     {
-      "rank": 65,
+      "rank": 67,
       "name": "돌진/와베 (격차)",
       "count": 206,
       "percent": 0.1,
       "avgChars": 6.4
     },
     {
-      "rank": 66,
+      "rank": 68,
+      "name": "쨔냐",
+      "count": 204,
+      "percent": 0.1,
+      "avgChars": 11
+    },
+    {
+      "rank": 69,
       "name": "(복귀)슈시아/중년모험단/소마",
       "count": 197,
       "percent": 0.1,
       "avgChars": 14.8
     },
     {
-      "rank": 67,
-      "name": "쨔냐",
-      "count": 197,
+      "rank": 70,
+      "name": "이나즈/여메카",
+      "count": 190,
       "percent": 0.1,
-      "avgChars": 11.1
+      "avgChars": 16.4
     },
     {
-      "rank": 68,
-      "name": "(복귀)안밤 / 블레",
-      "count": 194,
+      "rank": 71,
+      "name": "루히얀/넨마/패리스",
+      "count": 188,
       "percent": 0.1,
-      "avgChars": 17
+      "avgChars": 14.7
     },
     {
-      "rank": 69,
+      "rank": 72,
+      "name": "한밍콩 여넨마",
+      "count": 181,
+      "percent": 0.1,
+      "avgChars": 11.2
+    },
+    {
+      "rank": 73,
       "name": "쇼콜라도넛",
       "count": 177,
       "percent": 0.1,
       "avgChars": 12.9
     },
     {
-      "rank": 70,
-      "name": "이나즈/여메카",
-      "count": 176,
-      "percent": 0.1,
-      "avgChars": 16.5
-    },
-    {
-      "rank": 71,
-      "name": "한밍콩 여넨마",
-      "count": 176,
-      "percent": 0.1,
-      "avgChars": 11.4
-    },
-    {
-      "rank": 72,
+      "rank": 74,
       "name": "그건제잔상",
       "count": 174,
       "percent": 0.1,
       "avgChars": 16
     },
     {
-      "rank": 73,
-      "name": "루히얀/넨마/패리스",
-      "count": 165,
-      "percent": 0.1,
-      "avgChars": 13.8
-    },
-    {
-      "rank": 74,
-      "name": "GS슈퍼 유신 - 수리점&린파밀리에점",
-      "count": 164,
-      "percent": 0.1,
-      "avgChars": 13.4
-    },
-    {
       "rank": 75,
+      "name": "버섯수/버서커",
+      "count": 169,
+      "percent": 0.1,
+      "avgChars": 10.8
+    },
+    {
+      "rank": 76,
+      "name": "GS슈퍼 유신 - 수리점&린파밀리에점",
+      "count": 166,
+      "percent": 0.1,
+      "avgChars": 13.7
+    },
+    {
+      "rank": 77,
       "name": "l대암흑천l",
       "count": 163,
       "percent": 0.1,
       "avgChars": 9.5
     },
     {
-      "rank": 76,
+      "rank": 78,
       "name": "런처7392/남런처",
-      "count": 160,
+      "count": 161,
       "percent": 0.1,
-      "avgChars": 18.6
+      "avgChars": 18.5
     },
     {
-      "rank": 77,
+      "rank": 79,
       "name": "양수형/여메카",
       "count": 151,
       "percent": 0.1,
       "avgChars": 12.9
     },
     {
-      "rank": 78,
+      "rank": 80,
       "name": "차은우/칸나/",
       "count": 150,
       "percent": 0.1,
       "avgChars": 6.2
     },
     {
-      "rank": 79,
+      "rank": 81,
       "name": "에취",
-      "count": 147,
+      "count": 148,
       "percent": 0.1,
       "avgChars": 15.2
     },
     {
-      "rank": 80,
+      "rank": 82,
       "name": "스위프트",
       "count": 142,
       "percent": 0.1,
       "avgChars": 15
     },
     {
-      "rank": 81,
+      "rank": 83,
       "name": "부팅",
       "count": 135,
       "percent": 0.1,
       "avgChars": 14.1
     },
     {
-      "rank": 82,
+      "rank": 84,
       "name": "검마",
       "count": 132,
       "percent": 0.1,
       "avgChars": 15.2
     },
     {
-      "rank": 83,
+      "rank": 85,
+      "name": "슈시아/버서커유애나",
+      "count": 128,
+      "percent": 0.1,
+      "avgChars": 9.3
+    },
+    {
+      "rank": 86,
       "name": "코젤/아수라",
       "count": 127,
       "percent": 0.1,
       "avgChars": 14.5
     },
     {
-      "rank": 84,
+      "rank": 87,
       "name": "패아/이단",
       "count": 124,
       "percent": 0.1,
       "avgChars": 12.2
     },
     {
-      "rank": 85,
+      "rank": 88,
+      "name": "쵸단Q",
+      "count": 119,
+      "percent": 0.1,
+      "avgChars": 11.1
+    },
+    {
+      "rank": 89,
       "name": "성시둥/버서커",
       "count": 114,
       "percent": 0.1,
       "avgChars": 15
     },
     {
-      "rank": 86,
+      "rank": 90,
       "name": "대학원생논문뺏기/여메카",
       "count": 110,
       "percent": 0.1,
       "avgChars": 10.4
     },
     {
-      "rank": 87,
+      "rank": 91,
       "name": "도롱뇽/옵티머스",
       "count": 105,
       "percent": 0.1,
       "avgChars": 26.4
     },
     {
-      "rank": 88,
+      "rank": 92,
       "name": "소울이짱이야",
       "count": 105,
       "percent": 0.1,
       "avgChars": 9.9
     },
     {
-      "rank": 89,
+      "rank": 93,
       "name": "뉴비 곰믹스프로 / 슈시아",
       "count": 103,
       "percent": 0.1,
       "avgChars": 8
     },
     {
-      "rank": 90,
+      "rank": 94,
       "name": "오필리아/Female조교사",
       "count": 100,
       "percent": 0.1,
       "avgChars": 14.2
     },
     {
-      "rank": 91,
+      "rank": 95,
       "name": "키워/넨마/폰",
       "count": 98,
       "percent": 0.1,
       "avgChars": 17.4
     },
     {
-      "rank": 92,
-      "name": "버섯수/버서커",
-      "count": 95,
-      "percent": 0.1,
-      "avgChars": 11.1
-    },
-    {
-      "rank": 93,
+      "rank": 96,
       "name": "간부",
       "count": 94,
       "percent": 0.1,
       "avgChars": 14.2
     },
     {
-      "rank": 94,
+      "rank": 97,
       "name": "마붭/엘마",
       "count": 92,
       "percent": 0.1,
       "avgChars": 14.9
     },
     {
-      "rank": 95,
+      "rank": 98,
       "name": "뽀로로/여메카",
       "count": 92,
       "percent": 0.1,
       "avgChars": 13.3
     },
     {
-      "rank": 96,
+      "rank": 99,
       "name": "토이머신/여메카",
       "count": 90,
       "percent": 0.1,
       "avgChars": 13.9
     },
     {
-      "rank": 97,
+      "rank": 100,
+      "name": "히딩/메카",
+      "count": 90,
+      "percent": 0.1,
+      "avgChars": 9.4
+    },
+    {
+      "rank": 101,
       "name": "아재모험단",
       "count": 89,
       "percent": 0.1,
       "avgChars": 17.3
     },
     {
-      "rank": 98,
-      "name": "쵸단Q",
-      "count": 89,
-      "percent": 0.1,
-      "avgChars": 11.2
-    },
-    {
-      "rank": 99,
+      "rank": 102,
       "name": "(알 수 없음)",
       "count": 88,
       "percent": 0.1,
       "avgChars": 15.5
     },
     {
-      "rank": 100,
-      "name": "히딩/메카",
-      "count": 88,
+      "rank": 103,
+      "name": "섭이/버서커",
+      "count": 87,
       "percent": 0.1,
-      "avgChars": 9.4
+      "avgChars": 14.6
     },
     {
-      "rank": 101,
+      "rank": 104,
       "name": "꿍장/남스핏",
-      "count": 85,
+      "count": 86,
       "percent": 0.1,
-      "avgChars": 24.2
+      "avgChars": 23.9
     },
     {
-      "rank": 102,
+      "rank": 105,
       "name": "받침이/남런처",
       "count": 85,
       "percent": 0.1,
       "avgChars": 19.1
     },
     {
-      "rank": 103,
-      "name": "섭이/버서커",
-      "count": 85,
-      "percent": 0.1,
-      "avgChars": 14.4
-    },
-    {
-      "rank": 104,
+      "rank": 106,
       "name": "할로/버서커",
       "count": 85,
       "percent": 0.1,
       "avgChars": 8.7
     },
     {
-      "rank": 105,
+      "rank": 107,
+      "name": "무드v / 스커",
+      "count": 84,
+      "percent": 0.1,
+      "avgChars": 17.3
+    },
+    {
+      "rank": 108,
       "name": "련서니/남스핏",
       "count": 83,
       "percent": 0.1,
       "avgChars": 21.6
     },
     {
-      "rank": 106,
+      "rank": 109,
       "name": "랜드랜드/남메카",
       "count": 81,
       "percent": 0.1,
       "avgChars": 21
     },
     {
-      "rank": 107,
-      "name": "무드v / 스커",
-      "count": 81,
-      "percent": 0.1,
-      "avgChars": 17.8
-    },
-    {
-      "rank": 108,
+      "rank": 110,
       "name": "시스야",
       "count": 80,
       "percent": 0.1,
       "avgChars": 18.8
     },
     {
-      "rank": 109,
+      "rank": 111,
       "name": "온더락스/여메카",
       "count": 80,
       "percent": 0.1,
       "avgChars": 12.3
     },
     {
-      "rank": 110,
+      "rank": 112,
       "name": "속강 넨마",
       "count": 78,
-      "percent": 0.1,
+      "percent": 0,
       "avgChars": 11.5
     },
     {
-      "rank": 111,
+      "rank": 113,
+      "name": "남인파 / 패리스",
+      "count": 75,
+      "percent": 0,
+      "avgChars": 10.1
+    },
+    {
+      "rank": 114,
+      "name": "가을빙",
+      "count": 73,
+      "percent": 0,
+      "avgChars": 6.5
+    },
+    {
+      "rank": 115,
       "name": "칼동수/버서커",
       "count": 73,
       "percent": 0,
       "avgChars": 7.8
     },
     {
-      "rank": 112,
-      "name": "가을",
-      "count": 72,
-      "percent": 0,
-      "avgChars": 6.6
-    },
-    {
-      "rank": 113,
+      "rank": 116,
       "name": "ㅁ/남스핏",
       "count": 71,
       "percent": 0,
       "avgChars": 12.3
     },
     {
-      "rank": 114,
+      "rank": 117,
       "name": "희애시/남스핏",
       "count": 68,
       "percent": 0,
       "avgChars": 9.3
     },
     {
-      "rank": 115,
-      "name": "남인파 / 패리스",
-      "count": 67,
-      "percent": 0,
-      "avgChars": 9.9
-    },
-    {
-      "rank": 116,
+      "rank": 118,
       "name": "프로도",
       "count": 67,
       "percent": 0,
       "avgChars": 11.2
     },
     {
-      "rank": 117,
+      "rank": 119,
       "name": "연섬",
       "count": 61,
       "percent": 0,
       "avgChars": 19.9
     },
     {
-      "rank": 118,
+      "rank": 120,
       "name": "다미공주/세라핌",
       "count": 57,
       "percent": 0,
       "avgChars": 11.5
     },
     {
-      "rank": 119,
+      "rank": 121,
       "name": "랑재",
       "count": 57,
       "percent": 0,
       "avgChars": 15.2
     },
     {
-      "rank": 120,
+      "rank": 122,
+      "name": "아재런처/남메카",
+      "count": 57,
+      "percent": 0,
+      "avgChars": 12.7
+    },
+    {
+      "rank": 123,
       "name": "(뉴비)핑쿠스/이터널",
       "count": 56,
       "percent": 0,
       "avgChars": 21.9
     },
     {
-      "rank": 121,
+      "rank": 124,
       "name": "가다쟁이/커맨더",
       "count": 55,
       "percent": 0,
       "avgChars": 8.3
     },
     {
-      "rank": 122,
+      "rank": 125,
       "name": "Io/옵티.뿌레",
       "count": 55,
       "percent": 0,
       "avgChars": 13.2
     },
     {
-      "rank": 123,
-      "name": "아재런처/남메카",
-      "count": 54,
-      "percent": 0,
-      "avgChars": 13.2
-    },
-    {
-      "rank": 124,
+      "rank": 126,
       "name": "칸나/흑요백야블레",
       "count": 53,
       "percent": 0,
       "avgChars": 29.2
     },
     {
-      "rank": 125,
+      "rank": 127,
       "name": "뉴비/또꿀이네",
       "count": 52,
       "percent": 0,
       "avgChars": 23.2
     },
     {
-      "rank": 126,
+      "rank": 128,
       "name": "아들부자",
       "count": 52,
       "percent": 0,
       "avgChars": 9
     },
     {
-      "rank": 127,
-      "name": "노바/여메카",
-      "count": 48,
-      "percent": 0,
-      "avgChars": 13.1
-    },
-    {
-      "rank": 128,
-      "name": "베가본드",
-      "count": 48,
-      "percent": 0,
-      "avgChars": 13.8
-    },
-    {
       "rank": 129,
+      "name": "한우강정/남스핏",
+      "count": 52,
+      "percent": 0,
+      "avgChars": 9.7
+    },
+    {
+      "rank": 130,
+      "name": "스핏/미재",
+      "count": 51,
+      "percent": 0,
+      "avgChars": 18
+    },
+    {
+      "rank": 131,
+      "name": "베가본드",
+      "count": 50,
+      "percent": 0,
+      "avgChars": 13.5
+    },
+    {
+      "rank": 132,
+      "name": "노바/여메카",
+      "count": 49,
+      "percent": 0,
+      "avgChars": 12.9
+    },
+    {
+      "rank": 133,
       "name": "멋쫑이/여메카닉",
       "count": 47,
       "percent": 0,
       "avgChars": 10.4
     },
     {
-      "rank": 130,
+      "rank": 134,
       "name": "정만 / 버서커",
       "count": 47,
       "percent": 0,
       "avgChars": 10.1
     },
     {
-      "rank": 131,
-      "name": "한우강정/남스핏",
-      "count": 45,
-      "percent": 0,
-      "avgChars": 10.1
-    },
-    {
-      "rank": 132,
+      "rank": 135,
       "name": "박스",
       "count": 44,
       "percent": 0,
       "avgChars": 15.6
     },
     {
-      "rank": 133,
+      "rank": 136,
       "name": "찌아",
       "count": 44,
       "percent": 0,
       "avgChars": 16.4
     },
     {
-      "rank": 134,
+      "rank": 137,
+      "name": "라루",
+      "count": 43,
+      "percent": 0,
+      "avgChars": 16.4
+    },
+    {
+      "rank": 138,
+      "name": "란차란차/복귀뉴비",
+      "count": 43,
+      "percent": 0,
+      "avgChars": 21.5
+    },
+    {
+      "rank": 139,
       "name": "나갱 / 아수라",
       "count": 42,
       "percent": 0,
       "avgChars": 11.4
     },
     {
-      "rank": 135,
-      "name": "란차란차/복귀뉴비",
-      "count": 42,
-      "percent": 0,
-      "avgChars": 21.8
-    },
-    {
-      "rank": 136,
+      "rank": 140,
       "name": "65렙만 10개",
       "count": 41,
       "percent": 0,
       "avgChars": 19.9
     },
     {
-      "rank": 137,
+      "rank": 141,
       "name": "안스베이커리",
       "count": 41,
       "percent": 0,
-      "avgChars": 11.5
+      "avgChars": 11.4
     },
     {
-      "rank": 138,
+      "rank": 142,
       "name": "인D머스/여메카",
       "count": 41,
       "percent": 0,
       "avgChars": 33.6
     },
     {
-      "rank": 139,
+      "rank": 143,
       "name": "처음/남스핏",
       "count": 41,
       "percent": 0,
       "avgChars": 15.9
     },
     {
-      "rank": 140,
+      "rank": 144,
       "name": "늙고 병든/데슬",
       "count": 40,
       "percent": 0,
       "avgChars": 25.4
     },
     {
-      "rank": 141,
+      "rank": 145,
+      "name": "괴엽문/로그",
+      "count": 39,
+      "percent": 0,
+      "avgChars": 17.8
+    },
+    {
+      "rank": 146,
       "name": "늙고힘듦/블레이드",
       "count": 39,
       "percent": 0,
       "avgChars": 9.5
     },
     {
-      "rank": 142,
+      "rank": 147,
       "name": "불가지론자/세인트",
       "count": 39,
       "percent": 0,
       "avgChars": 10.9
     },
     {
-      "rank": 143,
-      "name": "라루",
-      "count": 38,
+      "rank": 148,
+      "name": "창시크",
+      "count": 39,
       "percent": 0,
-      "avgChars": 17.2
+      "avgChars": 13.5
     },
     {
-      "rank": 144,
+      "rank": 149,
       "name": "재료",
       "count": 38,
       "percent": 0,
       "avgChars": 13.9
     },
     {
-      "rank": 145,
+      "rank": 150,
       "name": "피가부족해요(프로필 거래내역 인증)",
       "count": 38,
       "percent": 0,
       "avgChars": 13.7
     },
     {
-      "rank": 146,
+      "rank": 151,
       "name": "유견/남스핏",
       "count": 37,
       "percent": 0,
       "avgChars": 21.5
     },
     {
-      "rank": 147,
-      "name": "축하하는 춘식이",
-      "count": 37,
-      "percent": 0,
-      "avgChars": 13.6
-    },
-    {
-      "rank": 148,
+      "rank": 152,
       "name": "하나도몰라/여메카",
       "count": 37,
       "percent": 0,
       "avgChars": 17.5
     },
     {
-      "rank": 149,
+      "rank": 153,
+      "name": "허무적멸/블레",
+      "count": 37,
+      "percent": 0,
+      "avgChars": 16.9
+    },
+    {
+      "rank": 154,
       "name": "키기",
       "count": 35,
       "percent": 0,
       "avgChars": 13.1
     },
     {
-      "rank": 150,
+      "rank": 155,
       "name": "유미님/인챈",
       "count": 34,
       "percent": 0,
       "avgChars": 16.1
     },
     {
-      "rank": 151,
+      "rank": 156,
       "name": "주황색감귤/여메카",
       "count": 34,
       "percent": 0,
       "avgChars": 9.1
     },
     {
-      "rank": 152,
+      "rank": 157,
+      "name": "던파모바일 신종민",
+      "count": 33,
+      "percent": 0,
+      "avgChars": 6.8
+    },
+    {
+      "rank": 158,
       "name": "응얼/여귀검",
       "count": 33,
       "percent": 0,
       "avgChars": 17.1
     },
     {
-      "rank": 153,
+      "rank": 159,
       "name": "솔백/소마",
       "count": 32,
       "percent": 0,
       "avgChars": 20.9
     },
     {
-      "rank": 154,
+      "rank": 160,
       "name": "호옹",
       "count": 32,
       "percent": 0,
       "avgChars": 11.4
     },
     {
-      "rank": 155,
+      "rank": 161,
       "name": "정중스핏/스핏",
       "count": 30,
       "percent": 0,
       "avgChars": 13.5
     },
     {
-      "rank": 156,
+      "rank": 162,
       "name": "뉴비) 넴무/남스핏",
       "count": 29,
       "percent": 0,
       "avgChars": 11
     },
     {
-      "rank": 157,
+      "rank": 163,
+      "name": "복귀/당근농사/헬벤터",
+      "count": 29,
+      "percent": 0,
+      "avgChars": 25.9
+    },
+    {
+      "rank": 164,
       "name": "Dev호",
       "count": 29,
       "percent": 0,
       "avgChars": 12.8
     },
     {
-      "rank": 158,
+      "rank": 165,
       "name": "메카닉송이/여메카",
       "count": 28,
       "percent": 0,
       "avgChars": 17.2
     },
     {
-      "rank": 159,
+      "rank": 166,
       "name": "아빠/레인저",
       "count": 27,
       "percent": 0,
       "avgChars": 9
     },
     {
-      "rank": 160,
+      "rank": 167,
       "name": "갱서 / 데페",
       "count": 25,
       "percent": 0,
       "avgChars": 15.2
     },
     {
-      "rank": 161,
+      "rank": 168,
       "name": "구희춘/남스핏",
       "count": 25,
       "percent": 0,
       "avgChars": 19.9
     },
     {
-      "rank": 162,
+      "rank": 169,
       "name": "참새/빙결사",
       "count": 25,
       "percent": 0,
       "avgChars": 20.9
     },
     {
-      "rank": 163,
+      "rank": 170,
       "name": "아더",
       "count": 24,
       "percent": 0,
       "avgChars": 9.8
     },
     {
-      "rank": 164,
+      "rank": 171,
       "name": "퇴마사언제나와요 / 인파",
       "count": 24,
       "percent": 0,
       "avgChars": 23.8
     },
     {
-      "rank": 165,
+      "rank": 172,
       "name": "휴텍 / 여런쳐",
       "count": 24,
       "percent": 0,
       "avgChars": 12.3
     },
     {
-      "rank": 166,
+      "rank": 173,
+      "name": "리나플로라",
+      "count": 23,
+      "percent": 0,
+      "avgChars": 8.9
+    },
+    {
+      "rank": 174,
       "name": "치타",
       "count": 23,
       "percent": 0,
       "avgChars": 10.6
     },
     {
-      "rank": 167,
+      "rank": 175,
       "name": "뉴비/스위프트",
       "count": 22,
       "percent": 0,
       "avgChars": 11
     },
     {
-      "rank": 168,
+      "rank": 176,
       "name": "Lefthook/남스커",
       "count": 22,
       "percent": 0,
       "avgChars": 30.9
     },
     {
-      "rank": 169,
+      "rank": 177,
       "name": "(뉴비)동디/와베",
       "count": 21,
       "percent": 0,
       "avgChars": 11.2
     },
     {
-      "rank": 170,
+      "rank": 178,
+      "name": "(뉴비)사랑은중독/여스파",
+      "count": 21,
+      "percent": 0,
+      "avgChars": 9.1
+    },
+    {
+      "rank": 179,
       "name": "뉴비/수녀킴/여크루",
       "count": 21,
       "percent": 0,
       "avgChars": 25.3
     },
     {
-      "rank": 171,
+      "rank": 180,
       "name": "윈드폭풍",
       "count": 21,
       "percent": 0,
       "avgChars": 15.7
     },
     {
-      "rank": 172,
-      "name": "허무적멸/블레",
-      "count": 21,
-      "percent": 0,
-      "avgChars": 20.8
-    },
-    {
-      "rank": 173,
+      "rank": 181,
       "name": "뉴비) 아수라가즈아/아수라",
       "count": 20,
       "percent": 0,
       "avgChars": 13.8
     },
     {
-      "rank": 174,
+      "rank": 182,
       "name": "도도한언뉘 / 여메카",
       "count": 20,
       "percent": 0,
       "avgChars": 28
     },
     {
-      "rank": 175,
+      "rank": 183,
       "name": "맨날늦게와/블레",
       "count": 19,
       "percent": 0,
       "avgChars": 10.1
     },
     {
-      "rank": 176,
+      "rank": 184,
       "name": "모험단이왔어요/옵티(복귀늅)",
       "count": 19,
       "percent": 0,
       "avgChars": 20.2
     },
     {
-      "rank": 177,
+      "rank": 185,
       "name": "어린이신동/스핏",
       "count": 19,
       "percent": 0,
       "avgChars": 9.9
     },
     {
-      "rank": 178,
+      "rank": 186,
       "name": "이병이지유/헬벤",
       "count": 19,
       "percent": 0,
       "avgChars": 10.2
     },
     {
-      "rank": 179,
+      "rank": 187,
       "name": "젤세빠",
       "count": 19,
       "percent": 0,
       "avgChars": 14.2
     },
     {
-      "rank": 180,
+      "rank": 188,
       "name": "졀립선",
       "count": 19,
       "percent": 0,
       "avgChars": 8.2
     },
     {
-      "rank": 181,
+      "rank": 189,
       "name": "도토리장군/ 디어사이드",
       "count": 18,
       "percent": 0,
       "avgChars": 24.7
     },
     {
-      "rank": 182,
+      "rank": 190,
       "name": "복귀인데 뉴비에요",
       "count": 18,
       "percent": 0,
       "avgChars": 31.7
     },
     {
-      "rank": 183,
+      "rank": 191,
+      "name": "태통",
+      "count": 18,
+      "percent": 0,
+      "avgChars": 7.8
+    },
+    {
+      "rank": 192,
       "name": "클장군/스핏",
       "count": 17,
       "percent": 0,
       "avgChars": 12.2
     },
     {
-      "rank": 184,
+      "rank": 193,
       "name": "퓨찡/검신",
       "count": 17,
       "percent": 0,
       "avgChars": 11.8
     },
     {
-      "rank": 185,
+      "rank": 194,
       "name": "두부둥도/웨펀",
       "count": 15,
       "percent": 0,
       "avgChars": 17.5
     },
     {
-      "rank": 186,
+      "rank": 195,
       "name": "아재/빙결라게르타",
       "count": 15,
       "percent": 0,
       "avgChars": 12.9
     },
     {
-      "rank": 187,
+      "rank": 196,
       "name": "전길안",
       "count": 15,
       "percent": 0,
       "avgChars": 10.5
     },
     {
-      "rank": 188,
+      "rank": 197,
       "name": "최후 (뉴비) / 웨펀",
       "count": 15,
       "percent": 0,
       "avgChars": 16.9
     },
     {
-      "rank": 189,
+      "rank": 198,
       "name": "갓또기/스핏",
       "count": 14,
       "percent": 0,
       "avgChars": 18.1
     },
     {
-      "rank": 190,
-      "name": "뉴비에옹",
+      "rank": 199,
+      "name": "연응결/엘마",
       "count": 14,
       "percent": 0,
-      "avgChars": 9.1
+      "avgChars": 7.7
     },
     {
-      "rank": 191,
-      "name": "스핏/미재",
-      "count": 14,
-      "percent": 0,
-      "avgChars": 11.5
-    },
-    {
-      "rank": 192,
+      "rank": 200,
       "name": "룰루비데/검제",
       "count": 13,
       "percent": 0,
       "avgChars": 12.8
     },
     {
-      "rank": 193,
+      "rank": 201,
       "name": "미소-엘마",
       "count": 13,
       "percent": 0,
       "avgChars": 11.5
     },
     {
-      "rank": 194,
+      "rank": 202,
       "name": "안녕",
       "count": 13,
       "percent": 0,
       "avgChars": 11.9
     },
     {
-      "rank": 195,
+      "rank": 203,
       "name": "의행",
       "count": 13,
       "percent": 0,
       "avgChars": 18
     },
     {
-      "rank": 196,
+      "rank": 204,
       "name": "가든 / 넨마",
       "count": 12,
       "percent": 0,
       "avgChars": 32.7
     },
     {
-      "rank": 197,
+      "rank": 205,
       "name": "라쿠니-",
       "count": 12,
       "percent": 0,
       "avgChars": 18.7
     },
     {
-      "rank": 198,
+      "rank": 206,
       "name": "붉은수호자",
       "count": 12,
       "percent": 0,
       "avgChars": 9.4
     },
     {
-      "rank": 199,
+      "rank": 207,
       "name": "슈퍼루키/넨마",
       "count": 12,
       "percent": 0,
       "avgChars": 13.5
     },
     {
-      "rank": 200,
-      "name": "연응결/엘마",
+      "rank": 208,
+      "name": "아이트류/스위프트",
       "count": 12,
       "percent": 0,
-      "avgChars": 7
+      "avgChars": 7.2
     },
     {
-      "rank": 201,
-      "name": "(뉴비)사랑은중독/여스파",
-      "count": 11,
-      "percent": 0,
-      "avgChars": 10.5
-    },
-    {
-      "rank": 202,
+      "rank": 209,
       "name": "간절한 앙몬드/남스핏",
       "count": 11,
       "percent": 0,
       "avgChars": 10.9
     },
     {
-      "rank": 203,
+      "rank": 210,
       "name": "복귀/보상이짭다/여메카",
       "count": 11,
       "percent": 0,
       "avgChars": 26
     },
     {
-      "rank": 204,
+      "rank": 211,
+      "name": "재밋네",
+      "count": 11,
+      "percent": 0,
+      "avgChars": 15
+    },
+    {
+      "rank": 212,
       "name": "젊음/스커",
       "count": 11,
       "percent": 0,
       "avgChars": 9.9
     },
     {
-      "rank": 205,
+      "rank": 213,
       "name": "칸나/뱩어택",
       "count": 11,
       "percent": 0,
       "avgChars": 9.9
     },
     {
-      "rank": 206,
+      "rank": 214,
       "name": "페부",
       "count": 11,
       "percent": 0,
       "avgChars": 9.8
     },
     {
-      "rank": 207,
+      "rank": 215,
       "name": "생각이 많은 스카피",
       "count": 10,
       "percent": 0,
       "avgChars": 13.7
     },
     {
-      "rank": 208,
+      "rank": 216,
       "name": "자두맛오렌지/남귀검사",
       "count": 10,
       "percent": 0,
       "avgChars": 13.8
     },
     {
-      "rank": 209,
+      "rank": 217,
+      "name": "TerriFying/여메카",
+      "count": 10,
+      "percent": 0,
+      "avgChars": 19.6
+    },
+    {
+      "rank": 218,
       "name": "깐부 / 마제스티",
       "count": 9,
       "percent": 0,
       "avgChars": 17.2
     },
     {
-      "rank": 210,
+      "rank": 219,
       "name": "슈카 / 프리스트",
       "count": 9,
       "percent": 0,
       "avgChars": 17
     },
     {
-      "rank": 211,
+      "rank": 220,
       "name": "안문호2",
       "count": 9,
       "percent": 0,
       "avgChars": 12.2
     },
     {
-      "rank": 212,
+      "rank": 221,
       "name": "자드",
       "count": 9,
       "percent": 0,
       "avgChars": 6
     },
     {
-      "rank": 213,
+      "rank": 222,
       "name": "플루톤",
       "count": 9,
       "percent": 0,
       "avgChars": 10
     },
     {
-      "rank": 214,
+      "rank": 223,
       "name": "흐물한 어피치",
       "count": 9,
       "percent": 0,
       "avgChars": 17.3
     },
     {
-      "rank": 215,
+      "rank": 224,
       "name": "l무월l/남런처",
       "count": 9,
       "percent": 0,
       "avgChars": 12.2
     },
     {
-      "rank": 216,
+      "rank": 225,
       "name": "블레이드Sod",
       "count": 8,
       "percent": 0,
       "avgChars": 8.3
     },
     {
-      "rank": 217,
+      "rank": 226,
       "name": "아주 큰 놈이야",
       "count": 8,
       "percent": 0,
       "avgChars": 16.4
     },
     {
-      "rank": 218,
+      "rank": 227,
       "name": "우뇌",
       "count": 8,
       "percent": 0,
       "avgChars": 39.5
     },
     {
-      "rank": 219,
+      "rank": 228,
       "name": "웃찌마라/블레이드",
       "count": 8,
       "percent": 0,
       "avgChars": 9.5
     },
     {
-      "rank": 220,
+      "rank": 229,
       "name": "응원하는 라이언/귀검사",
       "count": 8,
       "percent": 0,
       "avgChars": 8.9
     },
     {
-      "rank": 221,
-      "name": "재밋네",
-      "count": 8,
-      "percent": 0,
-      "avgChars": 15
-    },
-    {
-      "rank": 222,
+      "rank": 230,
       "name": "글로벌데슬",
       "count": 7,
       "percent": 0,
       "avgChars": 17.3
     },
     {
-      "rank": 223,
+      "rank": 231,
       "name": "덥석냠냠꿀꺽",
       "count": 7,
       "percent": 0,
       "avgChars": 6.6
     },
     {
-      "rank": 224,
+      "rank": 232,
       "name": "로얄수녀",
       "count": 7,
       "percent": 0,
       "avgChars": 8.6
     },
     {
-      "rank": 225,
+      "rank": 233,
       "name": "변대쟝 / 남렌",
       "count": 7,
       "percent": 0,
       "avgChars": 28.1
     },
     {
-      "rank": 226,
+      "rank": 234,
       "name": "부산레이븐",
       "count": 7,
       "percent": 0,
       "avgChars": 12.4
     },
     {
-      "rank": 227,
+      "rank": 235,
       "name": "크루마/여크루",
       "count": 7,
       "percent": 0,
       "avgChars": 19.6
     },
     {
-      "rank": 228,
+      "rank": 236,
       "name": "폰으로만함 / 스커",
       "count": 7,
       "percent": 0,
       "avgChars": 36.6
     },
     {
-      "rank": 229,
+      "rank": 237,
       "name": "하트치",
       "count": 7,
       "percent": 0,
       "avgChars": 8.9
     },
     {
-      "rank": 230,
+      "rank": 238,
+      "name": "허영록/검신",
+      "count": 7,
+      "percent": 0,
+      "avgChars": 15.6
+    },
+    {
+      "rank": 239,
       "name": "힝구링힝구",
       "count": 7,
       "percent": 0,
       "avgChars": 10.3
     },
     {
-      "rank": 231,
-      "name": "TerriFying/여메카",
-      "count": 7,
-      "percent": 0,
-      "avgChars": 22.3
-    },
-    {
-      "rank": 232,
+      "rank": 240,
       "name": "(뉴비)*^-^*/엘마",
       "count": 6,
       "percent": 0,
       "avgChars": 11.7
     },
     {
-      "rank": 233,
+      "rank": 241,
       "name": "꺄",
       "count": 6,
       "percent": 0,
       "avgChars": 10.7
     },
     {
-      "rank": 234,
+      "rank": 242,
       "name": "서문청아/넨마",
       "count": 6,
       "percent": 0,
       "avgChars": 19.3
     },
     {
-      "rank": 235,
+      "rank": 243,
       "name": "웃고있는 프렌즈",
       "count": 6,
       "percent": 0,
       "avgChars": 19.7
     },
     {
-      "rank": 236,
+      "rank": 244,
       "name": "천풍혈객/버섯",
       "count": 6,
       "percent": 0,
       "avgChars": 14.3
     },
     {
-      "rank": 237,
+      "rank": 245,
       "name": "뉴비 류비",
       "count": 5,
       "percent": 0,
       "avgChars": 6.6
     },
     {
-      "rank": 238,
+      "rank": 246,
       "name": "랍니다",
       "count": 5,
       "percent": 0,
       "avgChars": 8.6
     },
     {
-      "rank": 239,
+      "rank": 247,
       "name": "볼피/여메카",
       "count": 5,
       "percent": 0,
       "avgChars": 11
     },
     {
-      "rank": 240,
+      "rank": 248,
       "name": "안양/남스핏",
       "count": 5,
       "percent": 0,
       "avgChars": 11.8
     },
     {
-      "rank": 241,
+      "rank": 249,
       "name": "애몽단/블레이드",
       "count": 5,
       "percent": 0,
       "avgChars": 31.6
     },
     {
-      "rank": 242,
-      "name": "허영록/검신",
-      "count": 5,
-      "percent": 0,
-      "avgChars": 19.2
-    },
-    {
-      "rank": 243,
+      "rank": 250,
       "name": "넴지z / 뉴비",
       "count": 4,
       "percent": 0,
       "avgChars": 19.8
     },
     {
-      "rank": 244,
+      "rank": 251,
       "name": "무 ㅣ 신",
       "count": 4,
       "percent": 0,
       "avgChars": 6.5
     },
     {
-      "rank": 245,
+      "rank": 252,
       "name": "복귀자 탈s/아수라",
       "count": 4,
       "percent": 0,
       "avgChars": 12.3
     },
     {
-      "rank": 246,
+      "rank": 253,
       "name": "블린이",
       "count": 4,
       "percent": 0,
       "avgChars": 21.8
     },
     {
-      "rank": 247,
+      "rank": 254,
       "name": "손 흔드는 팬더주니어/다크랜서",
       "count": 4,
       "percent": 0,
       "avgChars": 12.8
     },
     {
-      "rank": 248,
+      "rank": 255,
       "name": "안문호",
       "count": 4,
       "percent": 0,
       "avgChars": 10.5
     },
     {
-      "rank": 249,
+      "rank": 256,
       "name": "에이펙시티(숫자)/다캐릭",
       "count": 4,
       "percent": 0,
       "avgChars": 19.5
     },
     {
-      "rank": 250,
+      "rank": 257,
       "name": "원샷",
       "count": 4,
       "percent": 0,
       "avgChars": 21
     },
     {
-      "rank": 251,
+      "rank": 258,
       "name": "으라차차",
       "count": 4,
       "percent": 0,
       "avgChars": 32.5
     },
     {
-      "rank": 252,
+      "rank": 259,
       "name": "체리로봇/여 메카닉",
       "count": 4,
       "percent": 0,
       "avgChars": 12.3
     },
     {
-      "rank": 253,
+      "rank": 260,
       "name": "축하하는 라이언",
       "count": 4,
       "percent": 0,
       "avgChars": 42.8
     },
     {
-      "rank": 254,
+      "rank": 261,
       "name": "침착해 / 여메카",
       "count": 4,
       "percent": 0,
       "avgChars": 18
     },
     {
-      "rank": 255,
+      "rank": 262,
       "name": "황득춘 / 버서커",
       "count": 4,
       "percent": 0,
       "avgChars": 17
     },
     {
-      "rank": 256,
+      "rank": 263,
       "name": "흑금/남스커",
       "count": 4,
       "percent": 0,
       "avgChars": 51.8
     },
     {
-      "rank": 257,
+      "rank": 264,
       "name": "ㅏ어엉",
       "count": 4,
       "percent": 0,
       "avgChars": 18
     },
     {
-      "rank": 258,
+      "rank": 265,
       "name": "강아랑",
       "count": 3,
       "percent": 0,
       "avgChars": 8.7
     },
     {
-      "rank": 259,
+      "rank": 266,
       "name": "뉴비/이안사랑해/여인파",
       "count": 3,
       "percent": 0,
       "avgChars": 42
     },
     {
-      "rank": 260,
+      "rank": 267,
       "name": "뉴비/태자돌림/웨펀",
       "count": 3,
       "percent": 0,
       "avgChars": 33.7
     },
     {
-      "rank": 261,
+      "rank": 268,
       "name": "뉴비/현재날씨맑음/버서커",
       "count": 3,
       "percent": 0,
       "avgChars": 15.3
     },
     {
-      "rank": 262,
+      "rank": 269,
       "name": "들뜬/블레이드",
       "count": 3,
       "percent": 0,
       "avgChars": 48.3
     },
     {
-      "rank": 263,
+      "rank": 270,
       "name": "루돌부/옵티머스",
       "count": 3,
       "percent": 0,
       "avgChars": 18.7
     },
     {
-      "rank": 264,
+      "rank": 271,
       "name": "리트리버/런쳐",
       "count": 3,
       "percent": 0,
       "avgChars": 17.3
     },
     {
-      "rank": 265,
+      "rank": 272,
+      "name": "무장전선/넥서스",
+      "count": 3,
+      "percent": 0,
+      "avgChars": 15.3
+    },
+    {
+      "rank": 273,
       "name": "박스에 들어간 춘식이",
       "count": 3,
       "percent": 0,
       "avgChars": 16.3
     },
     {
-      "rank": 266,
+      "rank": 274,
       "name": "범부극복",
       "count": 3,
       "percent": 0,
       "avgChars": 13.7
     },
     {
-      "rank": 267,
+      "rank": 275,
       "name": "빨강색연필/검마",
       "count": 3,
       "percent": 0,
       "avgChars": 11.3
     },
     {
-      "rank": 268,
+      "rank": 276,
       "name": "스우파좌파(스파)",
       "count": 3,
       "percent": 0,
       "avgChars": 3.7
     },
     {
-      "rank": 269,
+      "rank": 277,
       "name": "여메/짱",
       "count": 3,
       "percent": 0,
       "avgChars": 3.7
     },
     {
-      "rank": 270,
+      "rank": 278,
       "name": "피량/아이리스/84",
       "count": 3,
       "percent": 0,
       "avgChars": 37
     },
     {
-      "rank": 271,
+      "rank": 279,
       "name": "헤스티아",
       "count": 3,
       "percent": 0,
       "avgChars": 14.3
     },
     {
-      "rank": 272,
+      "rank": 280,
       "name": "YK무녀 / 무녀 / [뉴비]",
       "count": 3,
       "percent": 0,
       "avgChars": 20.3
     },
     {
-      "rank": 273,
+      "rank": 281,
       "name": "갑기네/여스파",
       "count": 2,
       "percent": 0,
       "avgChars": 12
     },
     {
-      "rank": 274,
+      "rank": 282,
       "name": "경산페라리/여메카",
       "count": 2,
       "percent": 0,
       "avgChars": 17.5
     },
     {
-      "rank": 275,
+      "rank": 283,
       "name": "네오 / 아수라",
       "count": 2,
       "percent": 0,
       "avgChars": 16
     },
     {
-      "rank": 276,
+      "rank": 284,
       "name": "다양한속으로",
       "count": 2,
       "percent": 0,
       "avgChars": 30
     },
     {
-      "rank": 277,
+      "rank": 285,
       "name": "못된난심/얼디",
       "count": 2,
       "percent": 0,
       "avgChars": 9
     },
     {
-      "rank": 278,
+      "rank": 286,
       "name": "몽문반/아수라",
       "count": 2,
       "percent": 0,
       "avgChars": 5
     },
     {
-      "rank": 279,
+      "rank": 287,
       "name": "무과금느껴요/아수라",
       "count": 2,
       "percent": 0,
       "avgChars": 3
     },
     {
-      "rank": 280,
+      "rank": 288,
       "name": "문방구/남스핏",
       "count": 2,
       "percent": 0,
       "avgChars": 30
     },
     {
-      "rank": 281,
+      "rank": 289,
       "name": "볼찌던/용독문주",
       "count": 2,
       "percent": 0,
       "avgChars": 28.5
     },
     {
-      "rank": 282,
+      "rank": 290,
       "name": "생성예정",
       "count": 2,
       "percent": 0,
       "avgChars": 6.5
     },
     {
-      "rank": 283,
+      "rank": 291,
       "name": "세구/아수라",
       "count": 2,
       "percent": 0,
       "avgChars": 39.5
     },
     {
-      "rank": 284,
+      "rank": 292,
       "name": "수정킴 /여메카",
       "count": 2,
       "percent": 0,
       "avgChars": 27.5
     },
     {
-      "rank": 285,
+      "rank": 293,
       "name": "슈시아/배부른무토",
       "count": 2,
       "percent": 0,
       "avgChars": 5.5
     },
     {
-      "rank": 286,
+      "rank": 294,
       "name": "신선들과아이들",
       "count": 2,
       "percent": 0,
       "avgChars": 14.5
     },
     {
-      "rank": 287,
+      "rank": 295,
       "name": "어파치/남엔",
       "count": 2,
       "percent": 0,
       "avgChars": 11
     },
     {
-      "rank": 288,
+      "rank": 296,
       "name": "오또봅/여메카",
       "count": 2,
       "percent": 0,
       "avgChars": 23
     },
     {
-      "rank": 289,
+      "rank": 297,
       "name": "이태우/ 레인저",
       "count": 2,
       "percent": 0,
       "avgChars": 5.5
     },
     {
-      "rank": 290,
+      "rank": 298,
       "name": "자랑하는 라이언",
       "count": 2,
       "percent": 0,
       "avgChars": 18
     },
     {
-      "rank": 291,
+      "rank": 299,
       "name": "춤추는 니니즈",
       "count": 2,
       "percent": 0,
       "avgChars": 25.5
     },
     {
-      "rank": 292,
+      "rank": 300,
       "name": "티디/여메카",
       "count": 2,
       "percent": 0,
       "avgChars": 7
     },
     {
-      "rank": 293,
+      "rank": 301,
       "name": "핏플/커맨더",
       "count": 2,
       "percent": 0,
       "avgChars": 7.5
     },
     {
-      "rank": 294,
+      "rank": 302,
       "name": "하루랑/남스핏",
       "count": 2,
       "percent": 0,
       "avgChars": 15.5
     },
     {
-      "rank": 295,
+      "rank": 303,
       "name": "행복한춘식이/블레이드",
       "count": 2,
       "percent": 0,
       "avgChars": 18.5
     },
     {
-      "rank": 296,
+      "rank": 304,
       "name": "(뉴비)컨징/남스핏",
       "count": 1,
       "percent": 0,
       "avgChars": 19
     },
     {
-      "rank": 297,
+      "rank": 305,
       "name": "구름송이/인챈",
       "count": 1,
       "percent": 0,
       "avgChars": 5
     },
     {
-      "rank": 298,
+      "rank": 306,
       "name": "넨마가젤이뻐/넨마",
       "count": 1,
       "percent": 0,
       "avgChars": 6
     },
     {
-      "rank": 299,
+      "rank": 307,
       "name": "노래하는 춘식이",
       "count": 1,
       "percent": 0,
       "avgChars": 11
     },
     {
-      "rank": 300,
+      "rank": 308,
       "name": "누워있는 죠르디",
       "count": 1,
       "percent": 0,
       "avgChars": 5
     },
     {
-      "rank": 301,
+      "rank": 309,
       "name": "달이뜨는밤/여메카",
       "count": 1,
       "percent": 0,
       "avgChars": 29
     },
     {
-      "rank": 302,
+      "rank": 310,
       "name": "던썰트",
       "count": 1,
       "percent": 0,
       "avgChars": 2
     },
     {
-      "rank": 303,
+      "rank": 311,
       "name": "먉먉먉/검제",
       "count": 1,
       "percent": 0,
       "avgChars": 4
     },
     {
-      "rank": 304,
+      "rank": 312,
       "name": "봉동신사/아이리스/스핏",
       "count": 1,
       "percent": 0,
       "avgChars": 5
     },
     {
-      "rank": 305,
+      "rank": 313,
       "name": "비키/스트라이커",
       "count": 1,
       "percent": 0,
       "avgChars": 23
     },
     {
-      "rank": 306,
+      "rank": 314,
       "name": "샤볼",
       "count": 1,
       "percent": 0,
       "avgChars": 5
     },
     {
-      "rank": 307,
+      "rank": 315,
       "name": "손윤지",
       "count": 1,
       "percent": 0,
       "avgChars": 28
     },
     {
-      "rank": 308,
+      "rank": 316,
       "name": "아이리스 블레이드",
       "count": 1,
       "percent": 0,
       "avgChars": 5
     },
     {
-      "rank": 309,
+      "rank": 317,
       "name": "안유진/버서커",
       "count": 1,
       "percent": 0,
       "avgChars": 28
     },
     {
-      "rank": 310,
+      "rank": 318,
       "name": "응원하는 니니즈",
       "count": 1,
       "percent": 0,
       "avgChars": 26
     },
     {
-      "rank": 311,
+      "rank": 319,
       "name": "탕방/시너지",
       "count": 1,
       "percent": 0,
       "avgChars": 15
     },
     {
-      "rank": 312,
+      "rank": 320,
       "name": "토방런처",
       "count": 1,
       "percent": 0,
       "avgChars": 6
     },
     {
-      "rank": 313,
+      "rank": 321,
       "name": "팝콘 먹는 춘식이",
       "count": 1,
       "percent": 0,
       "avgChars": 5
     },
     {
-      "rank": 314,
+      "rank": 322,
       "name": "펭군",
       "count": 1,
       "percent": 0,
       "avgChars": 5
     },
     {
-      "rank": 315,
+      "rank": 323,
       "name": "햄볶밥",
       "count": 1,
       "percent": 0,
       "avgChars": 7
     },
     {
-      "rank": 316,
+      "rank": 324,
       "name": "S186 한야",
       "count": 1,
       "percent": 0,
@@ -3986,7 +4042,7 @@
         [
           "오픈채팅봇",
           6,
-          680
+          674
         ],
         [
           "남거너고수",
@@ -4001,7 +4057,7 @@
         [
           "안스베이커리",
           4,
-          86
+          80
         ],
         [
           "지서이의ㅇㅇ",
@@ -6174,7 +6230,7 @@
         [
           "엥빈 / 뉴비",
           95,
-          1056
+          1050
         ],
         [
           "방장",
@@ -6239,7 +6295,7 @@
         [
           "(알 수 없음)",
           17,
-          344
+          338
         ],
         [
           "기가악",
@@ -8207,7 +8263,7 @@
         [
           "레지밀러/그플",
           22,
-          581
+          576
         ],
         [
           "할로/버서커",
@@ -8272,7 +8328,7 @@
         [
           "런처센세",
           2,
-          52
+          47
         ],
         [
           "슈시아/안젤루스",
@@ -11460,7 +11516,7 @@
           21
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           1,
           5
         ],
@@ -11472,7 +11528,7 @@
         [
           "차은우/칸나/",
           1,
-          33
+          34
         ]
       ]
     },
@@ -11827,7 +11883,7 @@
           10
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           1,
           17
         ],
@@ -11928,7 +11984,7 @@
           197
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           19,
           308
         ],
@@ -12194,7 +12250,7 @@
           40
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           2,
           41
         ],
@@ -12282,7 +12338,7 @@
         [
           "슈시아/물범(본주)",
           35,
-          444
+          439
         ],
         [
           "적풍신",
@@ -12425,14 +12481,14 @@
           11
         ],
         [
+          "창시크",
+          2,
+          31
+        ],
+        [
           "체리로봇/여 메카닉",
           2,
           29
-        ],
-        [
-          "축하하는 춘식이",
-          2,
-          31
         ],
         [
           "칸나/흑요백야블레",
@@ -12478,7 +12534,7 @@
         [
           "남거너고수",
           114,
-          2555
+          2535
         ],
         [
           "마음/아수라",
@@ -12556,7 +12612,7 @@
           181
         ],
         [
-          "축하하는 춘식이",
+          "창시크",
           16,
           227
         ],
@@ -12774,7 +12830,7 @@
         [
           "엥빈 / 뉴비",
           22,
-          272
+          275
         ],
         [
           "무직/버서커",
@@ -12817,7 +12873,7 @@
           83
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           7,
           67
         ],
@@ -13096,7 +13152,7 @@
         [
           "오필리아 / 잭터",
           435,
-          4975
+          4970
         ],
         [
           "펭귄/레이븐",
@@ -13121,7 +13177,7 @@
         [
           "기가악",
           95,
-          768
+          763
         ],
         [
           "치킨",
@@ -13209,12 +13265,12 @@
           189
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           8,
           148
         ],
         [
-          "축하하는 춘식이",
+          "창시크",
           7,
           81
         ],
@@ -13287,7 +13343,7 @@
         [
           "백제시대/ 슈시아",
           119,
-          1681
+          1675
         ],
         [
           "방장",
@@ -13362,7 +13418,7 @@
         [
           "오픈채팅봇",
           24,
-          2306
+          2300
         ],
         [
           "머멧/암제",
@@ -13420,7 +13476,7 @@
           89
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           7,
           102
         ],
@@ -13606,7 +13662,7 @@
           425
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           27,
           425
         ],
@@ -13892,7 +13948,7 @@
           19
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           3,
           80
         ],
@@ -14178,7 +14234,7 @@
           2
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           1,
           33
         ]
@@ -14196,7 +14252,7 @@
         [
           "백제시대/ 슈시아",
           142,
-          1600
+          1595
         ],
         [
           "기가악",
@@ -14221,7 +14277,7 @@
         [
           "레인져/라떼주세용/스핏/버거주세용",
           84,
-          1126
+          1121
         ],
         [
           "레지밀러/그플",
@@ -14256,7 +14312,7 @@
         [
           "펭귄/레이븐",
           36,
-          262
+          257
         ],
         [
           "키위새",
@@ -14276,7 +14332,7 @@
         [
           "오픈채팅봇",
           20,
-          2495
+          2490
         ],
         [
           "뀨능이/슈시아/이단",
@@ -14309,7 +14365,7 @@
           172
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           9,
           122
         ],
@@ -14369,7 +14425,7 @@
           36
         ],
         [
-          "축하하는 춘식이",
+          "창시크",
           2,
           41
         ],
@@ -14922,7 +14978,7 @@
           521
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           43,
           617
         ],
@@ -15404,7 +15460,7 @@
           106
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           16,
           248
         ],
@@ -15487,7 +15543,7 @@
         [
           "복귀유저",
           373,
-          3607
+          3608
         ],
         [
           "오필리아 / 잭터",
@@ -15502,7 +15558,7 @@
         [
           "백제시대/ 슈시아",
           207,
-          2160
+          2156
         ],
         [
           "펭귄/레이븐",
@@ -15532,7 +15588,7 @@
         [
           "엥빈 / 뉴비",
           75,
-          872
+          867
         ],
         [
           "방장",
@@ -15540,9 +15596,9 @@
           1145
         ],
         [
-          "가을",
+          "가을빙",
           72,
-          474
+          475
         ],
         [
           "(던붕이)고르고13/레인저/모바일유저",
@@ -15557,12 +15613,12 @@
         [
           "무직/버서커",
           61,
-          770
+          771
         ],
         [
           "런처센세",
           58,
-          719
+          714
         ],
         [
           "뉴비/닥초님",
@@ -15600,7 +15656,7 @@
           186
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           24,
           360
         ],
@@ -15622,7 +15678,7 @@
         [
           "절신",
           16,
-          211
+          206
         ],
         [
           "키위새",
@@ -15770,7 +15826,7 @@
           9
         ],
         [
-          "축하하는 춘식이",
+          "창시크",
           1,
           5
         ],
@@ -15896,7 +15952,7 @@
           232
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           22,
           229
         ],
@@ -16197,7 +16253,7 @@
           33
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           4,
           73
         ],
@@ -16584,7 +16640,7 @@
           626
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           51,
           550
         ],
@@ -16960,7 +17016,7 @@
           78
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           3,
           63
         ],
@@ -17517,7 +17573,7 @@
           7
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           1,
           34
         ],
@@ -17791,7 +17847,7 @@
         [
           "오필리아 / 잭터",
           370,
-          3725
+          3726
         ],
         [
           "적풍신",
@@ -17854,7 +17910,7 @@
           233
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           26,
           400
         ],
@@ -18100,7 +18156,7 @@
           700
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           32,
           493
         ],
@@ -18316,7 +18372,7 @@
           103
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           22,
           262
         ],
@@ -18567,7 +18623,7 @@
           197
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           6,
           52
         ],
@@ -18688,7 +18744,7 @@
           1646
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           119,
           1084
         ],
@@ -19084,7 +19140,7 @@
           96
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           3,
           29
         ],
@@ -19145,7 +19201,7 @@
           1380
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           72,
           821
         ],
@@ -19177,7 +19233,7 @@
         [
           "남거너고수",
           50,
-          950
+          951
         ],
         [
           "백제시대/ 슈시아",
@@ -19541,7 +19597,7 @@
           41
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           1,
           12
         ],
@@ -19838,7 +19894,7 @@
           44
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           8,
           106
         ],
@@ -20064,7 +20120,7 @@
           219
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           7,
           105
         ],
@@ -20270,7 +20326,7 @@
           157
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           11,
           167
         ],
@@ -20551,7 +20607,7 @@
           28
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           2,
           10
         ],
@@ -20677,7 +20733,7 @@
           463
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           15,
           193
         ],
@@ -20880,7 +20936,7 @@
         [
           "오픈채팅봇",
           8,
-          652
+          647
         ],
         [
           "오필리아 / 잭터",
@@ -20915,7 +20971,7 @@
         [
           "뉴비/닥초님",
           4,
-          41
+          36
         ],
         [
           "(던붕이)고르고13/레인저/모바일유저",
@@ -20968,14 +21024,14 @@
           26
         ],
         [
+          "창시크",
+          1,
+          16
+        ],
+        [
           "총알돌이/남렌/슈시아",
           1,
           14
-        ],
-        [
-          "축하하는 춘식이",
-          1,
-          16
         ],
         [
           "클장군/스핏",
@@ -21139,7 +21195,7 @@
           8
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           2,
           28
         ],
@@ -21202,7 +21258,7 @@
         [
           "뉴비/닥초님",
           113,
-          840
+          834
         ],
         [
           "덴들리온/검마",
@@ -21237,7 +21293,7 @@
         [
           "기가악",
           34,
-          241
+          235
         ],
         [
           "유미님/인챈",
@@ -21451,7 +21507,7 @@
           334
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           22,
           335
         ],
@@ -21792,7 +21848,7 @@
           18
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           2,
           42
         ],
@@ -21938,7 +21994,7 @@
           217
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           14,
           120
         ],
@@ -22131,7 +22187,7 @@
         [
           "기가악",
           56,
-          451
+          457
         ],
         [
           "적풍신",
@@ -22184,7 +22240,7 @@
           191
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           16,
           253
         ],
@@ -22194,7 +22250,7 @@
           184
         ],
         [
-          "뉴비에옹",
+          "프다 / 아픈녀석들",
           14,
           127
         ],
@@ -22402,7 +22458,7 @@
         [
           "뉴비/LuPae사랑해/로그",
           31,
-          244
+          250
         ],
         [
           "은비레이드/블레이드",
@@ -22470,7 +22526,7 @@
           1213
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           11,
           87
         ],
@@ -22751,7 +22807,7 @@
           36
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           3,
           48
         ],
@@ -23007,7 +23063,7 @@
           37
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           2,
           14
         ],
@@ -23128,7 +23184,7 @@
           79
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           12,
           172
         ],
@@ -23329,7 +23385,7 @@
           138
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           7,
           80
         ],
@@ -23545,7 +23601,7 @@
           70
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           6,
           43
         ],
@@ -23771,7 +23827,7 @@
           24
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           1,
           24
         ],
@@ -23917,14 +23973,14 @@
           153
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           7,
           95
         ],
         [
           "오픈채팅봇",
           6,
-          704
+          716
         ],
         [
           "그건제잔상",
@@ -24153,7 +24209,7 @@
           19
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           2,
           19
         ],
@@ -24319,7 +24375,7 @@
           47
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           4,
           68
         ],
@@ -24510,7 +24566,7 @@
           5
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           1,
           53
         ],
@@ -24998,7 +25054,7 @@
           374
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           44,
           512
         ],
@@ -25329,7 +25385,7 @@
           30
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           1,
           11
         ],
@@ -25616,7 +25672,7 @@
           651
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           6,
           32
         ],
@@ -25772,7 +25828,7 @@
           92
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           15,
           144
         ],
@@ -25983,7 +26039,7 @@
           132
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           16,
           235
         ],
@@ -26269,7 +26325,7 @@
           98
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           9,
           82
         ],
@@ -26372,7 +26428,7 @@
         [
           "방장",
           150,
-          2729
+          2731
         ],
         [
           "백제시대/ 슈시아",
@@ -26385,7 +26441,7 @@
           1016
         ],
         [
-          "(복귀)안밤 / 블레",
+          "살캥 / 블레이드(초보)",
           38,
           1068
         ],
@@ -26437,7 +26493,7 @@
         [
           "오픈채팅봇",
           10,
-          1000
+          1002
         ],
         [
           "불량한런처 / 런처",
@@ -26445,7 +26501,7 @@
           81
         ],
         [
-          "축하하는 춘식이",
+          "창시크",
           8,
           102
         ],
@@ -26457,7 +26513,7 @@
         [
           "남거너고수",
           5,
-          151
+          153
         ],
         [
           "맥심빛베리",
@@ -26477,7 +26533,7 @@
         [
           "슈시아/물범(본주)",
           5,
-          58
+          53
         ],
         [
           "펭귄/레이븐",
@@ -26505,7 +26561,7 @@
           75
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           3,
           57
         ],
@@ -26532,7 +26588,7 @@
         [
           "무직/버서커",
           2,
-          36
+          31
         ],
         [
           "원샷",
@@ -26568,7 +26624,7 @@
         [
           "방장",
           455,
-          3974
+          3976
         ],
         [
           "방장의 영혼",
@@ -26651,7 +26707,7 @@
           169
         ],
         [
-          "(복귀)안밤 / 블레",
+          "살캥 / 블레이드(초보)",
           9,
           124
         ],
@@ -26716,7 +26772,7 @@
           64
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           1,
           11
         ],
@@ -26749,7 +26805,7 @@
         [
           "방장",
           359,
-          3782
+          3786
         ],
         [
           "방장의 영혼",
@@ -26827,7 +26883,7 @@
           130
         ],
         [
-          "(복귀)안밤 / 블레",
+          "살캥 / 블레이드(초보)",
           12,
           111
         ],
@@ -26950,7 +27006,7 @@
         [
           "엥빈 / 뉴비",
           102,
-          1091
+          1094
         ],
         [
           "특홍어 / 버서커",
@@ -26993,7 +27049,7 @@
           840
         ],
         [
-          "(복귀)안밤 / 블레",
+          "살캥 / 블레이드(초보)",
           35,
           776
         ],
@@ -27048,7 +27104,7 @@
           215
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           12,
           149
         ],
@@ -27254,7 +27310,7 @@
           286
         ],
         [
-          "(복귀)안밤 / 블레",
+          "살캥 / 블레이드(초보)",
           26,
           257
         ],
@@ -27339,7 +27395,7 @@
           29
         ],
         [
-          "똥녀/스파",
+          "똥녀/슈시아",
           5,
           85
         ],
@@ -27505,14 +27561,14 @@
           260
         ],
         [
-          "(복귀)안밤 / 블레",
-          34,
-          378
-        ],
-        [
           "뉴비/닥초님",
           34,
           215
+        ],
+        [
+          "살캥 / 블레이드(초보)",
+          34,
+          378
         ],
         [
           "맑남",
@@ -27673,7 +27729,7 @@
         [
           "방장",
           689,
-          8477
+          8479
         ],
         [
           "백제시대/ 슈시아",
@@ -27786,7 +27842,7 @@
           330
         ],
         [
-          "(복귀)안밤 / 블레",
+          "살캥 / 블레이드(초보)",
           26,
           355
         ],
@@ -27959,82 +28015,177 @@
     },
     {
       "date": "2026-05-22",
-      "totalMessages": 248,
+      "totalMessages": 1033,
       "senders": [
         [
-          "방장의 영혼",
-          48,
-          7285
-        ],
-        [
-          "(던붕이)고르고13/레인저/모바일유저",
-          20,
-          141
-        ],
-        [
-          "런처센세",
-          20,
-          156
-        ],
-        [
-          "불량한런처 / 런처",
-          20,
-          227
-        ],
-        [
-          "기가악",
-          17,
-          129
-        ],
-        [
           "엥빈 / 뉴비",
-          15,
-          193
+          104,
+          1016
         ],
         [
-          "(복귀)안밤 / 블레",
-          14,
-          230
-        ],
-        [
-          "남거너고수",
-          12,
-          245
+          "방장의 영혼",
+          90,
+          13390
         ],
         [
           "백제시대/ 슈시아",
-          11,
-          110
-        ],
-        [
-          "방장",
-          9,
-          98
-        ],
-        [
-          "버섯수/버서커",
-          9,
-          108
-        ],
-        [
-          "맥심빛베리",
-          8,
-          102
+          63,
+          783
         ],
         [
           "오필리아 / 잭터",
-          8,
-          147
+          62,
+          738
         ],
         [
-          "스핏/미재",
-          7,
-          71
+          "방장",
+          59,
+          1059
+        ],
+        [
+          "런처센세",
+          58,
+          611
         ],
         [
           "적풍신",
+          49,
+          593
+        ],
+        [
+          "맑남",
+          48,
+          815
+        ],
+        [
+          "(던붕이)고르고13/레인저/모바일유저",
+          44,
+          365
+        ],
+        [
+          "불량한런처 / 런처",
+          41,
+          455
+        ],
+        [
+          "기가악",
+          40,
+          286
+        ],
+        [
+          "똥녀/슈시아",
+          34,
+          348
+        ],
+        [
+          "살캥 / 블레이드(초보)",
+          34,
+          451
+        ],
+        [
+          "던파모바일 신종민",
+          33,
+          225
+        ],
+        [
+          "버섯수/버서커",
+          31,
+          379
+        ],
+        [
+          "레지밀러/그플",
+          28,
+          513
+        ],
+        [
+          "버프열쇠",
+          25,
+          270
+        ],
+        [
+          "특홍어 / 버서커",
+          19,
+          178
+        ],
+        [
+          "남거너고수",
+          18,
+          394
+        ],
+        [
+          "FX헬벤",
+          16,
+          1264
+        ],
+        [
+          "무직/버서커",
+          15,
+          138
+        ],
+        [
+          "뉴비/LuPae사랑해/로그",
+          11,
+          73
+        ],
+        [
+          "연체르/배메",
+          11,
+          136
+        ],
+        [
+          "루히얀/넨마/패리스",
+          10,
+          328
+        ],
+        [
+          "스핏/미재",
+          10,
+          119
+        ],
+        [
+          "피믹 / 버서커",
+          10,
+          78
+        ],
+        [
+          "맥심빛베리",
+          9,
+          104
+        ],
+        [
+          "헤드샷",
+          9,
+          161
+        ],
+        [
+          "귀염둥이븝미",
           6,
-          156
+          94
+        ],
+        [
+          "남인파 / 패리스",
+          6,
+          72
+        ],
+        [
+          "마고놀자/미스",
+          5,
+          34
+        ],
+        [
+          "오픈채팅봇",
+          5,
+          415
+        ],
+        [
+          "덴들리온/검마",
+          3,
+          68
+        ],
+        [
+          "서리월영/암제",
+          3,
+          20
         ],
         [
           "슈시아/물범(본주)",
@@ -28047,29 +28198,14 @@
           13
         ],
         [
-          "귀염둥이븝미",
-          2,
-          44
-        ],
-        [
           "란차란차/복귀뉴비",
           2,
           14
         ],
         [
-          "서리월영/암제",
-          2,
-          15
-        ],
-        [
           "아재런처/남메카",
           2,
           14
-        ],
-        [
-          "오픈채팅봇",
-          2,
-          37
         ],
         [
           "전황/아수라",
@@ -28082,14 +28218,24 @@
           10
         ],
         [
-          "뉴비/LuPae사랑해/로그",
-          1,
-          7
+          "펭귄/레이븐",
+          2,
+          13
         ],
         [
-          "덴들리온/검마",
+          "한밍콩 여넨마",
+          2,
+          8
+        ],
+        [
+          "노바/여메카",
           1,
-          17
+          5
+        ],
+        [
+          "무드v / 스커",
+          1,
+          8
         ],
         [
           "복귀/참치",
@@ -28102,9 +28248,1069 @@
           8
         ],
         [
-          "피믹 / 버서커",
+          "에취",
           1,
-          1
+          15
+        ],
+        [
+          "쨔냐",
+          1,
+          4
+        ],
+        [
+          "한우강정/남스핏",
+          1,
+          10
+        ]
+      ]
+    },
+    {
+      "date": "2026-05-23",
+      "totalMessages": 4094,
+      "senders": [
+        [
+          "방장",
+          780,
+          9342
+        ],
+        [
+          "오필리아 / 잭터",
+          455,
+          5144
+        ],
+        [
+          "적풍신",
+          398,
+          4600
+        ],
+        [
+          "엥빈 / 뉴비",
+          360,
+          3382
+        ],
+        [
+          "방장의 영혼",
+          211,
+          25464
+        ],
+        [
+          "무직/버서커",
+          210,
+          2434
+        ],
+        [
+          "맥심빛베리",
+          157,
+          1044
+        ],
+        [
+          "불량한런처 / 런처",
+          150,
+          1427
+        ],
+        [
+          "런처센세",
+          147,
+          1542
+        ],
+        [
+          "레인져/라떼주세용/스핏/버거주세용",
+          120,
+          881
+        ],
+        [
+          "맑남",
+          90,
+          1533
+        ],
+        [
+          "(던붕이)고르고13/레인저/모바일유저",
+          73,
+          570
+        ],
+        [
+          "복귀유저",
+          72,
+          806
+        ],
+        [
+          "프다 / 아픈녀석들",
+          65,
+          670
+        ],
+        [
+          "헤드샷",
+          59,
+          1299
+        ],
+        [
+          "뽀왑",
+          57,
+          805
+        ],
+        [
+          "남거너고수",
+          55,
+          1056
+        ],
+        [
+          "초월한눈동자",
+          54,
+          325
+        ],
+        [
+          "연체르/배메",
+          53,
+          491
+        ],
+        [
+          "버섯수/버서커",
+          52,
+          495
+        ],
+        [
+          "레지밀러/그플",
+          51,
+          891
+        ],
+        [
+          "펭귄/레이븐",
+          48,
+          249
+        ],
+        [
+          "허락공대/왕국",
+          48,
+          366
+        ],
+        [
+          "마고놀자/미스",
+          44,
+          326
+        ],
+        [
+          "기가악",
+          39,
+          237
+        ],
+        [
+          "쵸단Q",
+          29,
+          304
+        ],
+        [
+          "백제시대/ 슈시아",
+          28,
+          257
+        ],
+        [
+          "서리월영/암제",
+          27,
+          236
+        ],
+        [
+          "리나플로라",
+          23,
+          205
+        ],
+        [
+          "살캥 / 블레이드(초보)",
+          22,
+          331
+        ],
+        [
+          "피믹 / 버서커",
+          17,
+          147
+        ],
+        [
+          "태통",
+          15,
+          117
+        ],
+        [
+          "이나즈/여메카",
+          14,
+          213
+        ],
+        [
+          "슈시아/물범(본주)",
+          10,
+          122
+        ],
+        [
+          "귀염둥이븝미",
+          9,
+          136
+        ],
+        [
+          "아이트류/스위프트",
+          9,
+          66
+        ],
+        [
+          "버프열쇠",
+          8,
+          77
+        ],
+        [
+          "오픈채팅봇",
+          8,
+          964
+        ],
+        [
+          "허무적멸/블레",
+          8,
+          125
+        ],
+        [
+          "FX헬벤",
+          4,
+          64
+        ],
+        [
+          "은비레이드/블레이드",
+          3,
+          37
+        ],
+        [
+          "한밍콩 여넨마",
+          3,
+          20
+        ],
+        [
+          "TerriFying/여메카",
+          3,
+          40
+        ],
+        [
+          "덴들리온/검마",
+          2,
+          47
+        ],
+        [
+          "가을빙",
+          1,
+          3
+        ],
+        [
+          "뉴비/LuPae사랑해/로그",
+          1,
+          4
+        ],
+        [
+          "스핏/미재",
+          1,
+          21
+        ],
+        [
+          "이구역여스핏/뉴비",
+          1,
+          23
+        ]
+      ]
+    },
+    {
+      "date": "2026-05-24",
+      "totalMessages": 742,
+      "senders": [
+        [
+          "방장",
+          165,
+          1761
+        ],
+        [
+          "방장의 영혼",
+          113,
+          18612
+        ],
+        [
+          "덴들리온/검마",
+          56,
+          757
+        ],
+        [
+          "엥빈 / 뉴비",
+          49,
+          409
+        ],
+        [
+          "프다 / 아픈녀석들",
+          43,
+          503
+        ],
+        [
+          "적풍신",
+          32,
+          388
+        ],
+        [
+          "(던붕이)고르고13/레인저/모바일유저",
+          28,
+          659
+        ],
+        [
+          "오필리아 / 잭터",
+          23,
+          214
+        ],
+        [
+          "똥녀/슈시아",
+          20,
+          302
+        ],
+        [
+          "런처센세",
+          20,
+          168
+        ],
+        [
+          "불량한런처 / 런처",
+          17,
+          164
+        ],
+        [
+          "백제시대/ 슈시아",
+          16,
+          101
+        ],
+        [
+          "펭귄/레이븐",
+          14,
+          85
+        ],
+        [
+          "허락공대/왕국",
+          14,
+          86
+        ],
+        [
+          "레지밀러/그플",
+          13,
+          276
+        ],
+        [
+          "남거너고수",
+          11,
+          190
+        ],
+        [
+          "살캥 / 블레이드(초보)",
+          11,
+          647
+        ],
+        [
+          "레인져/라떼주세용/스핏/버거주세용",
+          10,
+          114
+        ],
+        [
+          "무직/버서커",
+          10,
+          155
+        ],
+        [
+          "맑남",
+          8,
+          104
+        ],
+        [
+          "스핏/미재",
+          8,
+          169
+        ],
+        [
+          "마고놀자/미스",
+          7,
+          47
+        ],
+        [
+          "연체르/배메",
+          7,
+          64
+        ],
+        [
+          "헤드샷",
+          6,
+          55
+        ],
+        [
+          "맥심빛베리",
+          4,
+          27
+        ],
+        [
+          "뽀왑",
+          4,
+          91
+        ],
+        [
+          "오픈채팅봇",
+          4,
+          232
+        ],
+        [
+          "허무적멸/블레",
+          4,
+          32
+        ],
+        [
+          "(뉴비)사랑은중독/여스파",
+          3,
+          15
+        ],
+        [
+          "태통",
+          3,
+          23
+        ],
+        [
+          "한우강정/남스핏",
+          3,
+          22
+        ],
+        [
+          "베가본드",
+          2,
+          14
+        ],
+        [
+          "복귀유저",
+          2,
+          29
+        ],
+        [
+          "아이트류/스위프트",
+          2,
+          13
+        ],
+        [
+          "허영록/검신",
+          2,
+          13
+        ],
+        [
+          "히딩/메카",
+          2,
+          12
+        ],
+        [
+          "기가악",
+          1,
+          4
+        ],
+        [
+          "란차란차/복귀뉴비",
+          1,
+          7
+        ],
+        [
+          "무장전선/넥서스",
+          1,
+          11
+        ],
+        [
+          "슈시아/안젤루스",
+          1,
+          13
+        ],
+        [
+          "이구역여스핏/뉴비",
+          1,
+          78
+        ],
+        [
+          "쵸단Q",
+          1,
+          24
+        ]
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "totalMessages": 635,
+      "senders": [
+        [
+          "방장",
+          114,
+          1036
+        ],
+        [
+          "방장의 영혼",
+          57,
+          9748
+        ],
+        [
+          "오필리아 / 잭터",
+          52,
+          650
+        ],
+        [
+          "프다 / 아픈녀석들",
+          46,
+          491
+        ],
+        [
+          "런처센세",
+          40,
+          453
+        ],
+        [
+          "백제시대/ 슈시아",
+          38,
+          419
+        ],
+        [
+          "맥심빛베리",
+          35,
+          298
+        ],
+        [
+          "헤드샷",
+          25,
+          354
+        ],
+        [
+          "레지밀러/그플",
+          24,
+          295
+        ],
+        [
+          "레인져/라떼주세용/스핏/버거주세용",
+          22,
+          266
+        ],
+        [
+          "스핏/미재",
+          22,
+          506
+        ],
+        [
+          "(던붕이)고르고13/레인저/모바일유저",
+          20,
+          139
+        ],
+        [
+          "엥빈 / 뉴비",
+          20,
+          155
+        ],
+        [
+          "슈시아/버서커유애나",
+          15,
+          190
+        ],
+        [
+          "기가악",
+          14,
+          186
+        ],
+        [
+          "적풍신",
+          12,
+          159
+        ],
+        [
+          "펭귄/레이븐",
+          12,
+          70
+        ],
+        [
+          "무직/버서커",
+          7,
+          85
+        ],
+        [
+          "오픈채팅봇",
+          6,
+          598
+        ],
+        [
+          "남거너고수",
+          5,
+          68
+        ],
+        [
+          "초월한눈동자",
+          5,
+          34
+        ],
+        [
+          "귀염둥이븝미",
+          4,
+          55
+        ],
+        [
+          "슈시아/물범(본주)",
+          4,
+          990
+        ],
+        [
+          "허락공대/왕국",
+          4,
+          22
+        ],
+        [
+          "허무적멸/블레",
+          4,
+          32
+        ],
+        [
+          "뉴비/닥초님",
+          3,
+          11
+        ],
+        [
+          "복귀/당근농사/헬벤터",
+          3,
+          10
+        ],
+        [
+          "복귀유저",
+          3,
+          51
+        ],
+        [
+          "살캥 / 블레이드(초보)",
+          3,
+          10
+        ],
+        [
+          "남인파 / 패리스",
+          2,
+          24
+        ],
+        [
+          "서리월영/암제",
+          2,
+          8
+        ],
+        [
+          "섭이/버서커",
+          2,
+          52
+        ],
+        [
+          "전황/아수라",
+          2,
+          29
+        ],
+        [
+          "피믹 / 버서커",
+          2,
+          8
+        ],
+        [
+          "꿍장/남스핏",
+          1,
+          3
+        ],
+        [
+          "라루",
+          1,
+          7
+        ],
+        [
+          "런처7392/남런처",
+          1,
+          7
+        ],
+        [
+          "루히얀/넨마/패리스",
+          1,
+          14
+        ],
+        [
+          "마고놀자/미스",
+          1,
+          15
+        ],
+        [
+          "맑남",
+          1,
+          39
+        ]
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "totalMessages": 2758,
+      "senders": [
+        [
+          "오필리아 / 잭터",
+          309,
+          5673
+        ],
+        [
+          "프다 / 아픈녀석들",
+          253,
+          3234
+        ],
+        [
+          "방장의 영혼",
+          224,
+          22026
+        ],
+        [
+          "백제시대/ 슈시아",
+          220,
+          2825
+        ],
+        [
+          "엥빈 / 뉴비",
+          209,
+          2094
+        ],
+        [
+          "방장",
+          190,
+          1841
+        ],
+        [
+          "레인져/라떼주세용/스핏/버거주세용",
+          136,
+          1118
+        ],
+        [
+          "적풍신",
+          123,
+          1184
+        ],
+        [
+          "슈시아/버서커유애나",
+          113,
+          999
+        ],
+        [
+          "기가악",
+          99,
+          741
+        ],
+        [
+          "복귀유저",
+          81,
+          1271
+        ],
+        [
+          "슈시아/물범(본주)",
+          79,
+          1111
+        ],
+        [
+          "런처센세",
+          74,
+          714
+        ],
+        [
+          "(던붕이)고르고13/레인저/모바일유저",
+          62,
+          973
+        ],
+        [
+          "레지밀러/그플",
+          62,
+          1357
+        ],
+        [
+          "불량한런처 / 런처",
+          55,
+          590
+        ],
+        [
+          "맑남",
+          53,
+          760
+        ],
+        [
+          "살캥 / 블레이드(초보)",
+          42,
+          946
+        ],
+        [
+          "괴엽문/로그",
+          39,
+          696
+        ],
+        [
+          "귀염둥이븝미",
+          33,
+          373
+        ],
+        [
+          "초월한눈동자",
+          33,
+          165
+        ],
+        [
+          "헤드샷",
+          31,
+          423
+        ],
+        [
+          "무직/버서커",
+          25,
+          314
+        ],
+        [
+          "맥심빛베리",
+          20,
+          198
+        ],
+        [
+          "복귀/남런처/ 따라리론",
+          18,
+          227
+        ],
+        [
+          "전황/아수라",
+          17,
+          200
+        ],
+        [
+          "펭귄/레이븐",
+          16,
+          84
+        ],
+        [
+          "복귀/당근농사/헬벤터",
+          15,
+          552
+        ],
+        [
+          "슈시아/안젤루스",
+          14,
+          117
+        ],
+        [
+          "똥녀/슈시아",
+          13,
+          138
+        ],
+        [
+          "루히얀/넨마/패리스",
+          12,
+          151
+        ],
+        [
+          "특홍어 / 버서커",
+          12,
+          102
+        ],
+        [
+          "덴들리온/검마",
+          10,
+          184
+        ],
+        [
+          "(뉴비)사랑은중독/여스파",
+          7,
+          61
+        ],
+        [
+          "허락공대/왕국",
+          7,
+          40
+        ],
+        [
+          "남거너고수",
+          6,
+          128
+        ],
+        [
+          "오픈채팅봇",
+          6,
+          631
+        ],
+        [
+          "피믹 / 버서커",
+          6,
+          60
+        ],
+        [
+          "쨔냐",
+          5,
+          55
+        ],
+        [
+          "마고놀자/미스",
+          4,
+          52
+        ],
+        [
+          "스핏/미재",
+          3,
+          12
+        ],
+        [
+          "아재런처/남메카",
+          3,
+          14
+        ],
+        [
+          "재밋네",
+          3,
+          45
+        ],
+        [
+          "한우강정/남스핏",
+          3,
+          17
+        ],
+        [
+          "무드v / 스커",
+          2,
+          9
+        ],
+        [
+          "무장전선/넥서스",
+          2,
+          35
+        ],
+        [
+          "연응결/엘마",
+          2,
+          24
+        ],
+        [
+          "창시크",
+          2,
+          22
+        ],
+        [
+          "GS슈퍼 유신 - 수리점&린파밀리에점",
+          2,
+          76
+        ],
+        [
+          "뉴비/닥초님",
+          1,
+          4
+        ],
+        [
+          "아이트류/스위프트",
+          1,
+          7
+        ],
+        [
+          "절신",
+          1,
+          29
+        ]
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "totalMessages": 236,
+      "senders": [
+        [
+          "오필리아 / 잭터",
+          40,
+          519
+        ],
+        [
+          "방장의 영혼",
+          36,
+          3286
+        ],
+        [
+          "기가악",
+          29,
+          137
+        ],
+        [
+          "(던붕이)고르고13/레인저/모바일유저",
+          28,
+          267
+        ],
+        [
+          "레인져/라떼주세용/스핏/버거주세용",
+          24,
+          254
+        ],
+        [
+          "복귀/당근농사/헬벤터",
+          11,
+          188
+        ],
+        [
+          "방장",
+          7,
+          29
+        ],
+        [
+          "프다 / 아픈녀석들",
+          7,
+          39
+        ],
+        [
+          "귀염둥이븝미",
+          6,
+          74
+        ],
+        [
+          "백제시대/ 슈시아",
+          6,
+          33
+        ],
+        [
+          "살캥 / 블레이드(초보)",
+          6,
+          109
+        ],
+        [
+          "서리월영/암제",
+          6,
+          75
+        ],
+        [
+          "덴들리온/검마",
+          5,
+          77
+        ],
+        [
+          "라루",
+          4,
+          43
+        ],
+        [
+          "맥심빛베리",
+          4,
+          19
+        ],
+        [
+          "엥빈 / 뉴비",
+          4,
+          21
+        ],
+        [
+          "피믹 / 버서커",
+          4,
+          45
+        ],
+        [
+          "슈시아/물범(본주)",
+          3,
+          28
+        ],
+        [
+          "남거너고수",
+          2,
+          33
+        ],
+        [
+          "오픈채팅봇",
+          2,
+          37
+        ],
+        [
+          "쨔냐",
+          1,
+          9
+        ],
+        [
+          "헤드샷",
+          1,
+          36
         ]
       ]
     }

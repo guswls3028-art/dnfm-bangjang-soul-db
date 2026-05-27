@@ -59,6 +59,14 @@ export const BUILTIN_GUIDES = [
     url: "https://dnfm.nexon.com/News/Event",
   },
   {
+    key: "dnfguide",
+    aliases: ["dnf가이드", "dnf모바일가이드", "던파모바일가이드사이트", "뉴비복귀가이드", "성장로드맵"],
+    title: "DNF MOBILE GUIDE",
+    author: "외부",
+    body: "뉴비·복귀 상태 진단, 오늘 할 일, 레벨별 복귀, 장비·재화·재해던전·레이드 입문을 한 번에 훑는 외부 팬 가이드.",
+    url: "https://dnfguide.com/",
+  },
+  {
     key: "2각페",
     aliases: [
       "2각페이백",
@@ -908,6 +916,20 @@ export const STATIC_INFO_COMMANDS = {
       "- /여스파 룬",
       "",
       "명왕은 남스파, 독왕은 여스파입니다.",
+    ].join("\n"),
+  },
+  strikerDisambiguation: {
+    commands: ["/스커", "/스트라이커", "/스커 장비", "/스트라이커 장비"],
+    text: [
+      "스커는 남스커 / 여스커가 갈립니다.",
+      "",
+      "바로 보기",
+      "- /남스커 장비",
+      "- /여스커 장비",
+      "- /남스커 룬",
+      "- /여스커 룬",
+      "",
+      "무극/패황은 남스커, 챔피언/카이저는 여스커입니다.",
     ].join("\n"),
   },
   malePriestGuide: {
@@ -3459,7 +3481,7 @@ export const STATIC_INFO_SHORTCUTS = {
   exchangeShop: ["교환소", "교환소상점", "교환소뭐사", "교환소뭐삼", "소울상점", "레어소울상점", "유니크소울상점", "에픽소울상점", "익시드소울상점"],
   currencyAcquisitionGuide: ["골드", "골드획득", "골드수급", "재화획득", "재화획득처", "재화수급"],
   abyssFireSource: ["심연의불씨", "심연불씨", "고구마재료", "불씨재료"],
-  hellfireGuide: ["헬스파이어", "헬던", "지옥파티", "헬돌", "헬보상"],
+  hellfireGuide: ["헬스파이어", "헬던", "지옥파티", "헬돌", "헬보상", "레거시", "레거시획득"],
   currencyShop: ["재화상점", "재화상점뭐사", "재화상점뭐삼", "우정포인트", "공헌주화", "우정포인트상점", "공헌주화상점"],
   shopRoutine: ["상점루틴", "상점구매", "상점뭐사", "상점뭐삼", "구매가능품목", "추천품목", "상점추천"],
   mileageShop: ["마일리지", "마일리지샵", "마일리지상점", "마일리지촉매", "마일리지촉매제", "마일리지뭐사", "마일리지뭐삼", "대박촉매제조각주머니"],
@@ -3479,7 +3501,7 @@ export const STATIC_INFO_SHORTCUTS = {
   raidCarryTerms: ["경미참", "경미참뜻", "기사뜻", "버스뜻", "기사란", "승객뜻", "경매미참여"],
   dnfmPveContentInfo: ["pve", "pve콘텐츠", "pve컨텐츠", "콘텐츠종류", "컨텐츠종류", "의뢰던전", "긴급의뢰", "지옥파티", "헬스파이어", "주간던전", "재해던전", "정예던전", "비밀작전"],
   contentSpecGuide: ["컨텐츠스펙", "콘텐츠스펙", "컨텐츠항마", "콘텐츠항마", "최소스펙", "컨텐츠최소스펙", "콘텐츠최소스펙", "항마표", "콘텐츠입장항마", "컨텐츠입장항마"],
-  combatPowerGuide: ["항마높이기", "항마력높이기", "항마올리는법", "항마력올리는법", "항마올리기", "항마력올리기", "항마30만", "항마력30만", "30만항마"],
+  combatPowerGuide: ["항마높이기", "항마력높이기", "항마올리는법", "항마력올리는법", "항마올리기", "항마력올리기", "내실", "항마30만", "항마력30만", "30만항마"],
   dnfmStoryInfo: ["스토리정리", "던모스토리", "던파모바일스토리", "세계관", "로어", "등장인물", "지역집단"],
   solodorosInfo: ["솔도로스", "솔도", "무신솔도로스", "솔도로스정보", "시련솔도로스", "재해솔도로스"],
   lotusLoreInfo: ["로터스", "사도로터스", "로터스죽음", "로터스죽은"],
@@ -3850,7 +3872,7 @@ export const ITEM_SET_INFOS = [
 ];
 
 export const CLASS_GEAR_PROFILES = [
-  { group: "귀검사(남)", job: "웨펀마스터", first: "검성", second: "검신", types: ["elting", "iron"], runeOverride: "엘팅: 각성30 / 철용: 각성45", aliases: ["웨펀마스터", "웨펀", "웨마", "검성", "검신"] },
+  { group: "귀검사(남)", job: "웨펀마스터", first: "검성", second: "검신", types: ["elting", "iron"], runeOverride: "엘팅: 각성30 / 철용: 각성45", aliases: ["웨펀마스터", "웨펀", "웨폰", "웨마", "검성", "검신"] },
   {
     group: "귀검사(남)",
     job: "소울브링어",
@@ -3891,7 +3913,7 @@ export const CLASS_GEAR_PROFILES = [
     types: ["iron"],
     runeOverride: "모독",
     runeNote: "모독룬은 스킬 공격력 증가 1%인 스증룬입니다. 버서커는 철용 캐릭이지만 각성룬이 아니라 모독룬을 봅니다.",
-    aliases: ["버서커", "헬벤터", "블러드이블", "블러드 이블"],
+    aliases: ["버서커", "버섯커", "헬벤터", "블러드이블", "블러드 이블"],
     gearLinesByType: {
       iron: [
         "■ 버서커 철용 세팅",
@@ -3934,7 +3956,7 @@ export const CLASS_GEAR_PROFILES = [
       ],
     },
   },
-  { group: "격투가(여)", job: "그래플러(여)", first: "토네이도", second: "얼티밋 디바", types: ["elting", "normal"], runeOverride: "엘팅: 각성20 / 일반: 모독", aliases: ["여그플", "여그래플러", "토네이도", "얼티밋디바", "얼티밋 디바"] },
+  { group: "격투가(여)", job: "그래플러(여)", first: "토네이도", second: "얼티밋 디바", types: ["elting", "normal"], runeOverride: "엘팅: 각성20 / 일반: 모독", aliases: ["그래플러", "그플", "여그플", "여그래플러", "토네이도", "디바", "얼티밋", "얼티밋디바", "얼티밋 디바"] },
   {
     group: "격투가(남)",
     job: "스트라이커(남)",
@@ -3963,7 +3985,7 @@ export const CLASS_GEAR_PROFILES = [
     second: "명왕",
     types: ["iron", "normal"],
     runeOverride: "철용: 각성45 / 일반: 모독",
-    aliases: ["남스파", "남스트파", "남스트리트파이터", "천수나한", "명왕", "혈독남스파", "격폭남스파", "혈독셋", "혈독세팅", "혈독장비"],
+    aliases: ["남스파", "남스트파", "남스트리트파이터", "남스트리파이트", "천수나한", "명왕", "혈독남스파", "격폭남스파", "혈독셋", "혈독세팅", "혈독장비"],
     gearLinesByType: {
       iron: [
         "■ 남스파 철용 / 혈독 세팅",
